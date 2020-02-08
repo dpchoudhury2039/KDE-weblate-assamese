@@ -1,0 +1,906 @@
+# Amitakhya Phukan <অমিতাক্ষ ফুকন>, 2009.
+msgid ""
+msgstr ""
+"Project-Id-Version: desktop files\n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2020-02-01 02:51+0000\n"
+"PO-Revision-Date: 2009-01-12 16:16+0530\n"
+"Last-Translator: Amitakhya Phukan <অমিতাক্ষ ফুকন>\n"
+"Language-Team: Assamese <fedora-trans-as@redhat.com>\n"
+"Language: as\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Lokalize 0.2\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+
+#: effects/blur/blur_config.desktop:8
+msgctxt "Name"
+msgid "Blur"
+msgstr ""
+
+#: effects/coverswitch/coverswitch_config.desktop:8
+msgctxt "Name"
+msgid "Cover Switch"
+msgstr ""
+
+#: effects/cube/cube_config.desktop:8
+msgctxt "Name"
+msgid "Desktop Cube"
+msgstr ""
+
+#: effects/cubeslide/cubeslide_config.desktop:8
+#, fuzzy
+#| msgctxt "GenericName"
+#| msgid "Desktop Publishing"
+msgctxt "Name"
+msgid "Desktop Cube Animation"
+msgstr "ডেষ্কট'প প্ৰকাশন"
+
+#: effects/desktopgrid/desktopgrid_config.desktop:8
+msgctxt "Name"
+msgid "Desktop Grid"
+msgstr ""
+
+#: effects/dialogparent/package/metadata.desktop:2
+msgctxt "Name"
+msgid "Dialog Parent"
+msgstr ""
+
+#: effects/dialogparent/package/metadata.desktop:77
+msgctxt "Comment"
+msgid "Darkens the parent window of the currently active dialog"
+msgstr ""
+
+#: effects/diminactive/diminactive_config.desktop:8
+msgctxt "Name"
+msgid "Dim Inactive"
+msgstr ""
+
+#: effects/dimscreen/package/metadata.desktop:2
+msgctxt "Comment"
+msgid "Darkens the entire screen when requesting root privileges"
+msgstr ""
+
+#: effects/dimscreen/package/metadata.desktop:65
+msgctxt "Name"
+msgid "Dim Screen for Administrator Mode"
+msgstr ""
+
+#: effects/eyeonscreen/package/metadata.desktop:2
+msgctxt "Name"
+msgid "eye On Screen"
+msgstr ""
+
+#: effects/eyeonscreen/package/metadata.desktop:45
+msgctxt "Comment"
+msgid ""
+"Suck windows into desktop to show the latter. This might remind you of "
+"something."
+msgstr ""
+
+#: effects/fadedesktop/package/metadata.desktop:2
+#, fuzzy
+#| msgctxt "Name"
+#| msgid "Desktop"
+msgctxt "Name"
+msgid "Fade Desktop"
+msgstr "ডেস্কট'প"
+
+#: effects/fadedesktop/package/metadata.desktop:69
+msgctxt "Comment"
+msgid "Fade between virtual desktops when switching between them"
+msgstr ""
+
+#: effects/fade/package/metadata.desktop:2
+msgctxt "Name"
+msgid "Fade"
+msgstr ""
+
+#: effects/fade/package/metadata.desktop:81
+msgctxt "Comment"
+msgid "Make windows smoothly fade in and out when they are shown or hidden"
+msgstr ""
+
+#: effects/fadingpopups/package/metadata.desktop:2
+msgctxt "Name"
+msgid "Fading Popups"
+msgstr ""
+
+#: effects/fadingpopups/package/metadata.desktop:34
+msgctxt "Comment"
+msgid "Make popups smoothly fade in and out when they are shown or hidden"
+msgstr ""
+
+#: effects/flipswitch/flipswitch_config.desktop:8
+msgctxt "Name"
+msgid "Flip Switch"
+msgstr ""
+
+#: effects/frozenapp/package/metadata.desktop:2
+msgctxt "Name"
+msgid "Desaturate Unresponsive Applications"
+msgstr ""
+
+#: effects/frozenapp/package/metadata.desktop:40
+msgctxt "Comment"
+msgid "Desaturate windows of unresponsive (frozen) applications"
+msgstr ""
+
+#: effects/glide/glide_config.desktop:8
+#, fuzzy
+#| msgctxt "Name"
+#| msgid "Glines"
+msgctxt "Name"
+msgid "Glide"
+msgstr "Glines"
+
+#: effects/invert/invert_config.desktop:8
+msgctxt "Name"
+msgid "Invert"
+msgstr ""
+
+#: effects/kwineffect.desktop:5
+msgctxt "Comment"
+msgid "KWin Effect"
+msgstr ""
+
+#: effects/login/package/metadata.desktop:2
+msgctxt "Name"
+msgid "Login"
+msgstr ""
+
+#: effects/login/package/metadata.desktop:88
+msgctxt "Comment"
+msgid "Smoothly fade to the desktop when logging in"
+msgstr ""
+
+#: effects/logout/package/metadata.desktop:2
+msgctxt "Name"
+msgid "Logout"
+msgstr ""
+
+#: effects/logout/package/metadata.desktop:35
+msgctxt "Comment"
+msgid "Smoothly fade to the logout screen"
+msgstr ""
+
+#: effects/lookingglass/lookingglass_config.desktop:8
+msgctxt "Name"
+msgid "Looking Glass"
+msgstr ""
+
+#: effects/magiclamp/magiclamp_config.desktop:8
+msgctxt "Name"
+msgid "Magic Lamp"
+msgstr ""
+
+#: effects/magnifier/magnifier_config.desktop:8
+msgctxt "Name"
+msgid "Magnifier"
+msgstr ""
+
+#: effects/maximize/package/metadata.desktop:2
+msgctxt "Comment"
+msgid "Animation for a window going to maximize/restore from maximize"
+msgstr ""
+
+#: effects/maximize/package/metadata.desktop:49
+msgctxt "Name"
+msgid "Maximize"
+msgstr ""
+
+#: effects/morphingpopups/package/metadata.desktop:2
+msgctxt "Comment"
+msgid ""
+"Cross fade animation when Tooltips or Notifications change their geometry"
+msgstr ""
+
+#: effects/morphingpopups/package/metadata.desktop:40
+msgctxt "Name"
+msgid "Morphing popups"
+msgstr ""
+
+#: effects/mouseclick/mouseclick_config.desktop:8
+#, fuzzy
+#| msgctxt "Name"
+#| msgid "More Applications"
+msgctxt "Name"
+msgid "Mouse Click Animation"
+msgstr "অতিৰিক্ত অনুপ্ৰয়োগ"
+
+#: effects/mousemark/mousemark_config.desktop:8
+msgctxt "Name"
+msgid "Mouse Mark"
+msgstr ""
+
+#: effects/presentwindows/presentwindows_config.desktop:8
+msgctxt "Name"
+msgid "Present Windows"
+msgstr ""
+
+#: effects/resize/resize_config.desktop:8
+msgctxt "Name"
+msgid "Resize Window"
+msgstr ""
+
+#: effects/scale/package/metadata.desktop:2
+msgctxt "Name"
+msgid "Scale"
+msgstr ""
+
+#: effects/scale/package/metadata.desktop:35
+msgctxt "Comment"
+msgid "Make windows smoothly scale in and out when they are shown or hidden"
+msgstr ""
+
+#: effects/sessionquit/package/metadata.desktop:2
+msgctxt "Name"
+msgid "Session Quit"
+msgstr ""
+
+#: effects/sessionquit/package/metadata.desktop:29
+msgctxt "Comment"
+msgid "Keep the desktop background alive during logout until the end"
+msgstr ""
+
+#: effects/showfps/showfps_config.desktop:8
+msgctxt "Name"
+msgid "Show FPS"
+msgstr ""
+
+#: effects/showpaint/showpaint_config.desktop:8
+msgctxt "Name"
+msgid "Show Paint"
+msgstr ""
+
+#: effects/slide/slide_config.desktop:8
+#, fuzzy
+#| msgctxt "Name"
+#| msgid "Glines"
+msgctxt "Name"
+msgid "Slide"
+msgstr "Glines"
+
+#: effects/squash/package/metadata.desktop:2
+msgctxt "Comment"
+msgid "Squash windows when they are minimized"
+msgstr ""
+
+#: effects/squash/package/metadata.desktop:32
+msgctxt "Name"
+msgid "Squash"
+msgstr ""
+
+#: effects/thumbnailaside/thumbnailaside_config.desktop:8
+msgctxt "Name"
+msgid "Thumbnail Aside"
+msgstr ""
+
+#: effects/trackmouse/trackmouse_config.desktop:8
+msgctxt "Name"
+msgid "Track Mouse"
+msgstr ""
+
+#: effects/translucency/package/metadata.desktop:2
+msgctxt "Name"
+msgid "Translucency"
+msgstr ""
+
+#: effects/translucency/package/metadata.desktop:84
+msgctxt "Comment"
+msgid "Make windows translucent under different conditions"
+msgstr ""
+
+#: effects/windowaperture/package/metadata.desktop:2
+#, fuzzy
+#| msgctxt "Name"
+#| msgid "MS Windows 9x"
+msgctxt "Name"
+msgid "Window Aperture"
+msgstr "MS Windows 9x"
+
+#: effects/windowaperture/package/metadata.desktop:43
+msgctxt "Comment"
+msgid "Move window into the corners while showing desktop"
+msgstr ""
+
+#: effects/windowgeometry/windowgeometry_config.desktop:8
+#, fuzzy
+#| msgctxt "Name"
+#| msgid "MS Windows 9x"
+msgctxt "Name"
+msgid "WindowGeometry"
+msgstr "MS Windows 9x"
+
+#: effects/wobblywindows/wobblywindows_config.desktop:8
+msgctxt "Name"
+msgid "Wobbly Windows"
+msgstr ""
+
+#: effects/zoom/zoom_config.desktop:8
+msgctxt "Name"
+msgid "Zoom"
+msgstr "ডাঙৰকৈ প্ৰদৰ্শন"
+
+#: kcmkwin/kwincompositing/kwincompositing.desktop:15
+msgctxt "Name"
+msgid "Compositor"
+msgstr ""
+
+#: kcmkwin/kwincompositing/kwincompositing.desktop:60
+msgctxt "Comment"
+msgid "Compositor Settings for Desktop Effects"
+msgstr ""
+
+#: kcmkwin/kwincompositing/kwincompositing.desktop:105
+msgctxt "X-KDE-Keywords"
+msgid ""
+"kwin,window,manager,compositing,effect,3D effects,2D effects,OpenGL,XRender,"
+"video settings,graphical effects,desktop effects"
+msgstr ""
+
+#: kcmkwin/kwindecoration/kwindecoration.desktop:16
+#: kcmkwin/kwindecoration/package/metadata.desktop:18
+#: kcmkwin/kwindecoration/window-decorations.knsrc:2
+#, fuzzy
+#| msgctxt "GenericName"
+#| msgid "Window Termination Tool"
+msgctxt "Name"
+msgid "Window Decorations"
+msgstr "সংযোগক্ষেত্ৰ বন্ধ কৰাৰ সৰঞ্জাম"
+
+#: kcmkwin/kwindecoration/kwindecoration.desktop:77
+#: kcmkwin/kwindecoration/package/metadata.desktop:78
+msgctxt "Comment"
+msgid "Configure window titlebars and borders"
+msgstr ""
+
+#: kcmkwin/kwindecoration/kwindecoration.desktop:107
+msgctxt "X-KDE-Keywords"
+msgid ""
+"kwin,window,manager,border,style,theme,look,feel,layout,button,handle,edge,"
+"kwm,decoration"
+msgstr ""
+
+#: kcmkwin/kwindesktop/kcm_kwin_virtualdesktops.desktop:15
+#: kcmkwin/kwindesktop/package/metadata.desktop:2
+#, fuzzy
+#| msgctxt "Name"
+#| msgid "Desktop"
+msgctxt "Name"
+msgid "Virtual Desktops"
+msgstr "ডেস্কট'প"
+
+#: kcmkwin/kwindesktop/kcm_kwin_virtualdesktops.desktop:77
+#: kcmkwin/kwindesktop/package/metadata.desktop:64
+msgctxt "Comment"
+msgid "Configure navigation, number and layout of virtual desktops"
+msgstr ""
+
+#: kcmkwin/kwindesktop/kcm_kwin_virtualdesktops.desktop:104
+msgctxt "X-KDE-Keywords"
+msgid ""
+"desktop,desktops,number,virtual desktop,multiple desktops,pager,pager widget,"
+"pager applet,pager settings"
+msgstr ""
+
+#: kcmkwin/kwineffects/kcm_kwin_effects.desktop:17
+#: kcmkwin/kwineffects/package/metadata.desktop:2
+msgctxt "Name"
+msgid "Desktop Effects"
+msgstr ""
+
+#: kcmkwin/kwineffects/kcm_kwin_effects.desktop:64
+msgctxt "Comment"
+msgid "Configure compositor settings for desktop effects"
+msgstr ""
+
+#: kcmkwin/kwineffects/kcm_kwin_effects.desktop:93
+msgctxt "X-KDE-Keywords"
+msgid ""
+"kwin,window,manager,effect,3D effects,2D effects,graphical effects,desktop "
+"effects,animations,various animations,window management effects,window "
+"switching effect,desktop switching effect,animations,desktop animations,"
+"drivers,driver settings,rendering,render,invert effect,looking glass effect,"
+"magnifier effect,snap helper effect,track mouse effect,zoom effect,blur "
+"effect,fade effect,fade desktop effect,fall apart effect,glide effect,"
+"highlight window effect,login effect,logout effect,magic lamp effect,"
+"minimize animation effect,mouse mark effect,scale effect,screenshot effect,"
+"sheet effect,slide effect,sliding popups effect,thumbnail aside effect,"
+"translucency,translucency effect,transparency,window geometry effect,wobbly "
+"windows effect,startup feedback effect,dialog parent effect,dim inactive "
+"effect,dim screen effect,slide back effect,eye candy,candy,show FPS effect,"
+"show paint effect,cover switch effect,desktop cube effect,desktop cube "
+"animation effect,desktop grid effect,flip switch effect,present windows "
+"effect,resize window effect,background contrast effect"
+msgstr ""
+
+#: kcmkwin/kwineffects/kwineffect.knsrc:2
+#, fuzzy
+#| msgctxt "GenericName"
+#| msgid "File Manager"
+msgctxt "Name"
+msgid "Window Manager Effects"
+msgstr "নথিপত্ৰৰ পৰিচালক"
+
+#: kcmkwin/kwineffects/package/metadata.desktop:50
+msgctxt "Comment"
+msgid "Desktop Effects"
+msgstr ""
+
+#: kcmkwin/kwinoptions/kwinactions.desktop:12
+#, fuzzy
+#| msgctxt "GenericName"
+#| msgid "Window Termination Tool"
+msgctxt "Name"
+msgid "Window Actions"
+msgstr "সংযোগক্ষেত্ৰ বন্ধ কৰাৰ সৰঞ্জাম"
+
+#: kcmkwin/kwinoptions/kwinactions.desktop:42
+#, fuzzy
+#| msgctxt "Comment"
+#| msgid "Configure web cache settings"
+msgctxt "Comment"
+msgid "Configure mouse actions for windows and titlebars"
+msgstr "ৱেব কেছেৰ পছন্ধ বিন্যাস কৰক"
+
+#: kcmkwin/kwinoptions/kwinactions.desktop:71
+msgctxt "X-KDE-Keywords"
+msgid ""
+"shade,maximise,maximize,minimize,minimise,lower,operations menu,titlebar,"
+"resize"
+msgstr ""
+
+#: kcmkwin/kwinoptions/kwinadvanced.desktop:11
+#, fuzzy
+#| msgctxt "GenericName"
+#| msgid "Window Termination Tool"
+msgctxt "Name"
+msgid "Advanced Window Behavior"
+msgstr "সংযোগক্ষেত্ৰ বন্ধ কৰাৰ সৰঞ্জাম"
+
+#: kcmkwin/kwinoptions/kwinadvanced.desktop:40
+msgctxt "Comment"
+msgid "Configure advanced window management options"
+msgstr ""
+
+#: kcmkwin/kwinoptions/kwinadvanced.desktop:69
+msgctxt "X-KDE-Keywords"
+msgid ""
+"unshade,unshading,shade,shading,border,hover,active borders,tiling,tabs,"
+"tabbing,window,window tabbing,window grouping,window tiling,placement,window "
+"placement,placement of windows,window advanced behavior"
+msgstr ""
+
+#: kcmkwin/kwinoptions/kwinfocus.desktop:11
+msgctxt "Name"
+msgid "Window Focus Behavior"
+msgstr ""
+
+#: kcmkwin/kwinoptions/kwinfocus.desktop:39
+msgctxt "Comment"
+msgid "Configure window activation policy"
+msgstr ""
+
+#: kcmkwin/kwinoptions/kwinfocus.desktop:67
+msgctxt "X-KDE-Keywords"
+msgid ""
+"focus,auto raise,raise,click raise,keyboard,CDE,alt-tab,all desktop,focus "
+"follows mouse,focus prevention,focus stealing,focus policy,window focus "
+"behavior,window screen behavior"
+msgstr ""
+
+#: kcmkwin/kwinoptions/kwinmoving.desktop:12
+#, fuzzy
+#| msgctxt "GenericName"
+#| msgid "Window Termination Tool"
+msgctxt "Name"
+msgid "Window Movement"
+msgstr "সংযোগক্ষেত্ৰ বন্ধ কৰাৰ সৰঞ্জাম"
+
+#: kcmkwin/kwinoptions/kwinmoving.desktop:40
+msgctxt "Comment"
+msgid "Configure window movement options"
+msgstr ""
+
+#: kcmkwin/kwinoptions/kwinmoving.desktop:68
+msgctxt "X-KDE-Keywords"
+msgid "moving,smart,cascade,maximize,maximise,snap zone,snap,border"
+msgstr ""
+
+#: kcmkwin/kwinoptions/kwinoptions.desktop:15
+msgctxt "Name"
+msgid "Window Behavior"
+msgstr ""
+
+#: kcmkwin/kwinoptions/kwinoptions.desktop:102
+msgctxt "Comment"
+msgid "Configure window actions and behavior"
+msgstr ""
+
+#: kcmkwin/kwinoptions/kwinoptions.desktop:131
+msgctxt "X-KDE-Keywords"
+msgid ""
+"focus,placement,window behavior,window actions,animation,raise,auto raise,"
+"windows,frame,titlebar,doubleclick"
+msgstr ""
+
+#: kcmkwin/kwinrules/kwinrules.desktop:14
+#, fuzzy
+#| msgctxt "Name"
+#| msgid "MS Windows 9x"
+msgctxt "Name"
+msgid "Window Rules"
+msgstr "MS Windows 9x"
+
+#: kcmkwin/kwinrules/kwinrules.desktop:76
+msgctxt "Comment"
+msgid "Individual Window Behavior"
+msgstr ""
+
+#: kcmkwin/kwinrules/kwinrules.desktop:121
+msgctxt "X-KDE-Keywords"
+msgid ""
+"size,position,state,window behavior,windows,specific,workarounds,remember,"
+"rules"
+msgstr ""
+
+#: kcmkwin/kwinscreenedges/kwinscreenedges.desktop:14
+msgctxt "Name"
+msgid "Screen Edges"
+msgstr ""
+
+#: kcmkwin/kwinscreenedges/kwinscreenedges.desktop:83
+#, fuzzy
+#| msgctxt "Comment"
+#| msgid "Configure web cache settings"
+msgctxt "Comment"
+msgid "Configure active screen corners and edges"
+msgstr "ৱেব কেছেৰ পছন্ধ বিন্যাস কৰক"
+
+#: kcmkwin/kwinscreenedges/kwinscreenedges.desktop:112
+msgctxt "X-KDE-Keywords"
+msgid ""
+"kwin,window,manager,effect,corner,edge,border,action,switch,desktop,kwin "
+"screen edges,desktop edges,screen edges,maximize windows,tile windows,side "
+"of screen,screen behavior,switch desktop,virtual desktop,screen corners"
+msgstr ""
+
+#: kcmkwin/kwinscreenedges/kwintouchscreen.desktop:13
+msgctxt "Name"
+msgid "Touch Screen"
+msgstr ""
+
+#: kcmkwin/kwinscreenedges/kwintouchscreen.desktop:53
+#, fuzzy
+#| msgctxt "Comment"
+#| msgid "Configure web cache settings"
+msgctxt "Comment"
+msgid "Configure touch screen swipe gestures"
+msgstr "ৱেব কেছেৰ পছন্ধ বিন্যাস কৰক"
+
+#: kcmkwin/kwinscreenedges/kwintouchscreen.desktop:81
+msgctxt "X-KDE-Keywords"
+msgid ""
+"kwin,window,manager,effect,edge,border,action,switch,desktop,desktop edges,"
+"screen edges,side of screen,screen behavior,touch screen"
+msgstr ""
+
+#: kcmkwin/kwinscripts/kwinscripts.desktop:11
+msgctxt "X-KDE-Keywords"
+msgid "kwin script"
+msgstr ""
+
+#: kcmkwin/kwinscripts/kwinscripts.desktop:63
+msgctxt "Name"
+msgid "KWin Scripts"
+msgstr ""
+
+#: kcmkwin/kwinscripts/kwinscripts.desktop:113
+msgctxt "Comment"
+msgid "Manage KWin scripts"
+msgstr ""
+
+#: kcmkwin/kwinscripts/kwinscripts.knsrc:2
+#, fuzzy
+#| msgctxt "GenericName"
+#| msgid "File Manager"
+msgctxt "Name"
+msgid "Window Manager Scripts"
+msgstr "নথিপত্ৰৰ পৰিচালক"
+
+#: kcmkwin/kwintabbox/kwinswitcher.knsrc:2
+#, fuzzy
+#| msgctxt "GenericName"
+#| msgid "File Manager"
+msgctxt "Name"
+msgid "Window Manager Switching Layouts"
+msgstr "নথিপত্ৰৰ পৰিচালক"
+
+#: kcmkwin/kwintabbox/kwintabbox.desktop:13
+msgctxt "Name"
+msgid "Task Switcher"
+msgstr ""
+
+#: kcmkwin/kwintabbox/kwintabbox.desktop:73
+msgctxt "Comment"
+msgid "Navigation Through Windows"
+msgstr ""
+
+#: kcmkwin/kwintabbox/kwintabbox.desktop:117
+msgctxt "X-KDE-Keywords"
+msgid ""
+"window,windows,switcher,window switcher,switching,window switching,alttab,"
+"alt-tab,alt+tab,alt tab"
+msgstr ""
+
+#: kwin.notifyrc:3
+#, fuzzy
+#| msgctxt "GenericName"
+#| msgid "File Manager"
+msgctxt "Comment"
+msgid "KWin Window Manager"
+msgstr "নথিপত্ৰৰ পৰিচালক"
+
+#: kwin.notifyrc:67
+msgctxt "Name"
+msgid "Compositing has been suspended"
+msgstr ""
+
+#: kwin.notifyrc:131
+msgctxt "Comment"
+msgid "Another application has requested to suspend compositing."
+msgstr ""
+
+#: kwin.notifyrc:195
+#, fuzzy
+#| msgctxt "Name"
+#| msgid "Graphics"
+msgctxt "Name"
+msgid "Graphics Reset"
+msgstr "চিত্ৰাঙ্কন"
+
+#: kwin.notifyrc:240
+msgctxt "Comment"
+msgid "A graphics reset event occurred"
+msgstr ""
+
+#: plugins/kdecorations/aurorae/src/aurorae.knsrc:2
+#, fuzzy
+#| msgctxt "GenericName"
+#| msgid "Window Termination Tool"
+msgctxt "Name"
+msgid "Aurorae Window Decorations"
+msgstr "সংযোগক্ষেত্ৰ বন্ধ কৰাৰ সৰঞ্জাম"
+
+#: plugins/kdecorations/aurorae/src/kwindecoration.desktop:5
+#, fuzzy
+#| msgctxt "GenericName"
+#| msgid "Window Termination Tool"
+msgctxt "Comment"
+msgid "KWin Window Decoration"
+msgstr "সংযোগক্ষেত্ৰ বন্ধ কৰাৰ সৰঞ্জাম"
+
+#: plugins/kdecorations/aurorae/themes/plastik/package/metadata.desktop:2
+msgctxt "Name"
+msgid "Plastik"
+msgstr ""
+
+#: plugins/kdecorations/aurorae/themes/plastik/package/metadata.desktop:89
+msgctxt "Comment"
+msgid "The classic theme known from KDE 3"
+msgstr ""
+
+#: plugins/kpackage/aurorae/kwin-packagestructure-aurorae.desktop:2
+msgctxt "Name"
+msgid "KWin Aurorae"
+msgstr ""
+
+#: plugins/kpackage/decoration/kwin-packagestructure-decoration.desktop:2
+#, fuzzy
+#| msgctxt "GenericName"
+#| msgid "Window Termination Tool"
+msgctxt "Name"
+msgid "KWin Decoration"
+msgstr "সংযোগক্ষেত্ৰ বন্ধ কৰাৰ সৰঞ্জাম"
+
+#: plugins/kpackage/effect/kwin-packagestructure-effect.desktop:2
+#, fuzzy
+#| msgctxt "GenericName"
+#| msgid "File Manager"
+msgctxt "Name"
+msgid "KWin Effect"
+msgstr "নথিপত্ৰৰ পৰিচালক"
+
+#: plugins/kpackage/scripts/kwin-packagestructure-scripts.desktop:2
+#, fuzzy
+#| msgctxt "GenericName"
+#| msgid "File Manager"
+msgctxt "Name"
+msgid "KWin Script"
+msgstr "নথিপত্ৰৰ পৰিচালক"
+
+#: plugins/kpackage/windowswitcher/kwin-packagestructure-windowswitcher.desktop:2
+#, fuzzy
+#| msgctxt "GenericName"
+#| msgid "File Manager"
+msgctxt "Name"
+msgid "KWin Window Switcher"
+msgstr "নথিপত্ৰৰ পৰিচালক"
+
+#: scripting/kwinscript.desktop:5
+msgctxt "Comment"
+msgid "KWin Script"
+msgstr ""
+
+#: scripts/desktopchangeosd/metadata.desktop:2
+#, fuzzy
+#| msgctxt "Name"
+#| msgid "Desktop"
+msgctxt "Name"
+msgid "Desktop Change OSD"
+msgstr "ডেস্কট'প"
+
+#: scripts/desktopchangeosd/metadata.desktop:49
+msgctxt "Comment"
+msgid "An on screen display indicating the desktop change"
+msgstr ""
+
+#: scripts/minimizeall/metadata.desktop:2
+msgctxt "Name"
+msgid "MinimizeAll"
+msgstr ""
+
+#: scripts/minimizeall/metadata.desktop:43
+msgctxt "Comment"
+msgid "Adds a shortcut to minimize and restore all windows"
+msgstr ""
+
+#: scripts/synchronizeskipswitcher/metadata.desktop:2
+msgctxt "Name"
+msgid "Synchronize Skip Switcher with Taskbar"
+msgstr ""
+
+#: scripts/synchronizeskipswitcher/metadata.desktop:47
+msgctxt "Comment"
+msgid ""
+"Hides all windows marked as Skip Taskbar to be also excluded from window "
+"switchers (e.g. Alt+Tab)"
+msgstr ""
+
+#: scripts/videowall/metadata.desktop:2
+#, fuzzy
+#| msgctxt "GenericName"
+#| msgid "Video Player"
+msgctxt "Name"
+msgid "Video Wall"
+msgstr "Video Player"
+
+#: scripts/videowall/metadata.desktop:50
+msgctxt "Comment"
+msgid ""
+"Spans fullscreen video player over all attached screens to create a Video "
+"Wall"
+msgstr ""
+
+#: tabbox/kwindesktopswitcher.desktop:5
+#, fuzzy
+#| msgctxt "GenericName"
+#| msgid "File Manager"
+msgctxt "Comment"
+msgid "KWin Desktop Switcher Layout"
+msgstr "নথিপত্ৰৰ পৰিচালক"
+
+#: tabbox/kwinwindowswitcher.desktop:5
+#, fuzzy
+#| msgctxt "GenericName"
+#| msgid "File Manager"
+msgctxt "Comment"
+msgid "KWin Window Switcher Layout"
+msgstr "নথিপত্ৰৰ পৰিচালক"
+
+#, fuzzy
+#~| msgctxt "Comment"
+#~| msgid "Configure web cache settings"
+#~ msgctxt "Comment"
+#~ msgid "Mouse Actions on Windows"
+#~ msgstr "ৱেব কেছেৰ পছন্ধ বিন্যাস কৰক"
+
+#, fuzzy
+#~| msgctxt "GenericName"
+#~| msgid "Window Termination Tool"
+#~ msgctxt "Name"
+#~ msgid "Enforces Window Decorations on GTK+ window"
+#~ msgstr "সংযোগক্ষেত্ৰ বন্ধ কৰাৰ সৰঞ্জাম"
+
+#, fuzzy
+#~| msgctxt "Name"
+#~| msgid "Icons"
+#~ msgctxt "Name"
+#~ msgid "Large Icons"
+#~ msgstr "আইকন"
+
+#, fuzzy
+#~| msgctxt "Name"
+#~| msgid "Compiz"
+#~ msgctxt "Name"
+#~ msgid "Compact"
+#~ msgstr "Compiz"
+
+#, fuzzy
+#~| msgctxt "Name"
+#~| msgid "Information"
+#~ msgctxt "Name"
+#~ msgid "Informative"
+#~ msgstr "তথ্য"
+
+#, fuzzy
+#~| msgctxt "Name"
+#~| msgid "Icons"
+#~ msgctxt "Name"
+#~ msgid "Small Icons"
+#~ msgstr "আইকন"
+
+#, fuzzy
+#~| msgctxt "Name"
+#~| msgid "Desktop"
+#~ msgctxt "Name"
+#~ msgid "Text Only"
+#~ msgstr "ডেস্কট'প"
+
+#, fuzzy
+#~| msgctxt "GenericName"
+#~| msgid "File Manager"
+#~ msgctxt "Comment"
+#~ msgid "An informative desktop switcher layout"
+#~ msgstr "নথিপত্ৰৰ পৰিচালক"
+
+#, fuzzy
+#~| msgctxt "Name"
+#~| msgid "File Preview"
+#~ msgctxt "Name"
+#~ msgid "Previews"
+#~ msgstr "নথিপত্ৰৰ পূৰ্ব প্ৰদৰ্শন"
+
+#, fuzzy
+#~| msgctxt "Name"
+#~| msgid "History Sidebar"
+#~ msgctxt "Name"
+#~ msgid "Sidebar"
+#~ msgstr "ইতিহাসৰ কাৰণে কাষৰ বাৰ"
+
+#, fuzzy
+#~| msgctxt "Comment"
+#~| msgid "Configure the behavior of Java and JavaScript"
+#~ msgctxt "Comment"
+#~ msgid "Configure the behavior for navigating through windows"
+#~ msgstr "Java আৰু JavaScript ৰ আচৰণ বিন্যাস কৰক"
+
+#, fuzzy
+#~| msgctxt "Name"
+#~| msgid "Science"
+#~ msgctxt "Name"
+#~ msgid "Screen Edge"
+#~ msgstr "বিজ্ঞান"
+
+#, fuzzy
+#~| msgctxt "Name"
+#~| msgid "Science"
+#~ msgctxt "Name"
+#~ msgid "Screenshot"
+#~ msgstr "বিজ্ঞান"
+
+#, fuzzy
+#~| msgctxt "Name"
+#~| msgid "Stylesheets"
+#~ msgctxt "Name"
+#~ msgid "Sheet"
+#~ msgstr "Stylesheets"
+
+#, fuzzy
+#~| msgctxt "Name"
+#~| msgid "Saint Helena"
+#~ msgctxt "Name"
+#~ msgid "Snap Helper"
+#~ msgstr "ছেন্ট হেলেনা"

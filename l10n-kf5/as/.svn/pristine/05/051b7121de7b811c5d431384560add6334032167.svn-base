@@ -1,0 +1,1406 @@
+# Amitakhya Phukan <aphukan@fedoraproject.org>, 2008.
+msgid ""
+msgstr ""
+"Project-Id-Version: desktop files\n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2019-05-20 01:32+0000\n"
+"PO-Revision-Date: 2008-12-17 16:47+0530\n"
+"Last-Translator: Amitakhya Phukan <aphukan@fedoraproject.org>\n"
+"Language-Team: American English <>\n"
+"Language: as\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Lokalize 0.2\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+
+#: src/java/kjavaappletviewer.desktop:2
+msgctxt "Name"
+msgid "Embedded Java Applet Viewer"
+msgstr "প্ৰোথিত Java Applet প্ৰদৰ্শক"
+
+#: src/khtmladaptorpart.desktop:2
+msgctxt "Name"
+msgid "KHTML Extension Adaptor"
+msgstr "KHTML সম্প্ৰসাৰণৰ এডাপ্টৰ"
+
+#: src/khtml.desktop:3
+msgctxt "Comment"
+msgid "Embeddable HTML viewing component"
+msgstr "Embeddable HTML চাব পৰা অংশ"
+
+#: src/khtml.desktop:101
+msgctxt "Name"
+msgid "KHTML"
+msgstr "KHTML"
+
+#: src/khtmlimage.desktop:3
+msgctxt "Comment"
+msgid "Embeddable Image Viewing Component"
+msgstr "প্ৰোথিত কৰিব পৰা প্ৰতিমূৰ্ত্তি প্ৰদৰ্শনৰ অংশ"
+
+#: src/khtmlimage.desktop:99
+msgctxt "Name"
+msgid "Embeddable Image Viewer"
+msgstr "প্ৰোথিত কৰিব পৰা প্ৰতিমূৰ্ত্তিৰ প্ৰদৰ্শক"
+
+#: src/kmultipart/kmultipart.desktop:4
+msgctxt "Name"
+msgid "Embeddable Component for multipart/mixed"
+msgstr "প্ৰোথিত কৰিব পৰা অংশ multipart/mixed ৰ বাবে"
+
+#~ msgctxt "Comment"
+#~ msgid "Instant Messenger with a D-Bus interface"
+#~ msgstr "এটা D-Bus সংযোগ মাধ্যম থকা Instant Messenger"
+
+#, fuzzy
+#~| msgctxt "Name"
+#~| msgid "Instant Messenger"
+#~ msgctxt "Name|standard desktop component"
+#~ msgid "Instant Messenger"
+#~ msgstr "Instant Messenger"
+
+#~ msgctxt "Comment"
+#~ msgid ""
+#~ "The instant messenger allows two-way chat between individuals and groups."
+#~ msgstr ""
+#~ "এই instant messenger এ মানুহ আৰু সমষ্টিৰ মাজত দুই ফালৰ পৰাই কথা পাতিব দিয়ে ।"
+
+#~ msgctxt "Comment"
+#~ msgid "Text-to-Speech Service with a D-Bus interface"
+#~ msgstr "এটা D-Bus সংযোগ মাধ্যম থকা লিপি-ৰ পৰা-ভাষালৈ নিয়াৰ সেৱা"
+
+#, fuzzy
+#~| msgctxt "Name"
+#~| msgid "Embedded Text Editor"
+#~ msgctxt "Name|standard desktop component"
+#~ msgid "Embedded Text Editor"
+#~ msgstr "প্ৰোথিত লিপি সম্পাদক"
+
+#~ msgctxt "Comment"
+#~ msgid ""
+#~ "The text editor service provides applications with a text viewer and "
+#~ "editor. KDE applications that provide text editing facilities should use "
+#~ "this service."
+#~ msgstr ""
+#~ "লিপি সম্পাদক সেৱাই এটা লিপি প্ৰদৰ্শক আৰু সম্পাদকৰ অনুপ্ৰয়োগ দিয়ে । যি KDE "
+#~ "অনুপ্ৰয়োগে লিপি সম্পাদনৰ সুবিধা দিয়ে এই সেৱা ব্যৱহাৰ কৰিব লাগে ।"
+
+#~ msgctxt "Comment"
+#~ msgid "Embeddable Text Editor Component (with Doc/View Separation)"
+#~ msgstr "প্ৰোথিত কৰিব পৰা লিপি সম্পাদনৰ অংশ (Doc/View Separation ৰ সৈতে)"
+
+#~ msgctxt "Comment"
+#~ msgid "KTextEditor load/save filter/check plugin"
+#~ msgstr "KTextEditor load/save filter/check প্লাগ-ইন"
+
+#~ msgctxt "Comment"
+#~ msgid "KTextEditor Plugin"
+#~ msgstr "KTextEditor Plugin"
+
+#~ msgctxt "Comment"
+#~ msgid "Storage backend for KConfig"
+#~ msgstr "KConfig ৰ বাবে ভঁৰালৰ বেকএন্ড"
+
+#~ msgctxt "Name"
+#~ msgid "Afar"
+#~ msgstr "আফাৰ"
+
+#~ msgctxt "Name"
+#~ msgid "Abkhazian"
+#~ msgstr "আব্‌খাজিয়ান"
+
+#~ msgctxt "Name"
+#~ msgid "Avestan"
+#~ msgstr "আভেষ্টান"
+
+#~ msgctxt "Name"
+#~ msgid "Afrikaans"
+#~ msgstr "আফ্ৰিকান্স"
+
+#~ msgctxt "Name"
+#~ msgid "Amharic"
+#~ msgstr "আম্‌হাৰিক"
+
+#~ msgctxt "Name"
+#~ msgid "Arabic"
+#~ msgstr "আৰবীয়"
+
+#~ msgctxt "Name"
+#~ msgid "Assamese"
+#~ msgstr "অসমীয়া"
+
+#, fuzzy
+#~| msgctxt "Name"
+#~| msgid "Avestan"
+#~ msgctxt "Name"
+#~ msgid "Asturian"
+#~ msgstr "আভেষ্টান"
+
+#~ msgctxt "Name"
+#~ msgid "Aymara"
+#~ msgstr "আইমাৰা"
+
+#~ msgctxt "Name"
+#~ msgid "Azerbaijani"
+#~ msgstr "আজাৰ্বাইজানী"
+
+#~ msgctxt "Name"
+#~ msgid "Bashkir"
+#~ msgstr "বাস্কিৰ"
+
+#~ msgctxt "Name"
+#~ msgid "Belarusian"
+#~ msgstr "বেলাৰুচীয়"
+
+#~ msgctxt "Name"
+#~ msgid "Belarusian (Latin)"
+#~ msgstr "বেলাৰুচীয় (লেটিন)"
+
+#~ msgctxt "Name"
+#~ msgid "Bulgarian"
+#~ msgstr "বুলগেৰীয়"
+
+#~ msgctxt "Name"
+#~ msgid "Bihari"
+#~ msgstr "বিহাৰী"
+
+#~ msgctxt "Name"
+#~ msgid "Bislama"
+#~ msgstr "বিস্লামা"
+
+#~ msgctxt "Name"
+#~ msgid "Bengali"
+#~ msgstr "বঙালী"
+
+#~ msgctxt "Name"
+#~ msgid "Bengali (India)"
+#~ msgstr "বঙালী (ভাৰত)"
+
+#~ msgctxt "Name"
+#~ msgid "Tibetan"
+#~ msgstr "টিব্বটীয়"
+
+#~ msgctxt "Name"
+#~ msgid "Breton"
+#~ msgstr "ব্ৰেট'ন"
+
+#~ msgctxt "Name"
+#~ msgid "Bosnian"
+#~ msgstr "বোস্নীয়"
+
+#~ msgctxt "Name"
+#~ msgid "Catalan"
+#~ msgstr "কাটালান"
+
+#~ msgctxt "Name"
+#~ msgid "Chechen"
+#~ msgstr "ছেছেন্‌"
+
+#~ msgctxt "Name"
+#~ msgid "Chamorro"
+#~ msgstr "কেমোৰো"
+
+#~ msgctxt "Name"
+#~ msgid "Corsican"
+#~ msgstr "ক'ৰ্চিয়ান"
+
+#~ msgctxt "Name"
+#~ msgid "Crimean Tatar"
+#~ msgstr "ক্ৰিমিয়ান টাটাৰ"
+
+#~ msgctxt "Name"
+#~ msgid "Czech"
+#~ msgstr "ছেক"
+
+#~ msgctxt "Name"
+#~ msgid "Kashubian"
+#~ msgstr "কাছুবিয়ান"
+
+#~ msgctxt "Name"
+#~ msgid "Church Slavic"
+#~ msgstr "চাৰ্চ স্লাভিক"
+
+#~ msgctxt "Name"
+#~ msgid "Chuvash"
+#~ msgstr "ছুভাশ্ব"
+
+#~ msgctxt "Name"
+#~ msgid "Welsh"
+#~ msgstr "ৱেল্‌শ্ব"
+
+#~ msgctxt "Name"
+#~ msgid "Danish"
+#~ msgstr "ডেনিশ্ব"
+
+#~ msgctxt "Name"
+#~ msgid "German"
+#~ msgstr "জাৰ্মান"
+
+#~ msgctxt "Name"
+#~ msgid "Lower Sorbian"
+#~ msgstr "লোৱাৰ ছৰ্বিয়ান"
+
+#~ msgctxt "Name"
+#~ msgid "Dzongkha"
+#~ msgstr "জঙ্কা"
+
+#~ msgctxt "Name"
+#~ msgid "Greek"
+#~ msgstr "গ্ৰীক"
+
+#~ msgctxt "Name"
+#~ msgid "English"
+#~ msgstr "ইংৰাজী"
+
+#~ msgctxt "Name"
+#~ msgid "British English"
+#~ msgstr "বিটিশ্ব ইংৰাজী"
+
+#~ msgctxt "Name"
+#~ msgid "American English"
+#~ msgstr "আমেৰিকান ইংৰাজী"
+
+#~ msgctxt "Name"
+#~ msgid "Esperanto"
+#~ msgstr "এস্পেৰান্টো"
+
+#~ msgctxt "Name"
+#~ msgid "Spanish"
+#~ msgstr "স্পেনিশ্ব"
+
+#~ msgctxt "Name"
+#~ msgid "Estonian"
+#~ msgstr "এস্টোনিয়ান"
+
+#~ msgctxt "Name"
+#~ msgid "Basque"
+#~ msgstr "বাস্ক"
+
+#~ msgctxt "Name"
+#~ msgid "Farsi (Persian)"
+#~ msgstr "ফাৰ্চী (পাৰ্চিয়ান)"
+
+#~ msgctxt "Name"
+#~ msgid "Finnish"
+#~ msgstr "ফিনিশ্ব"
+
+#~ msgctxt "Name"
+#~ msgid "Fijian"
+#~ msgstr "ফিজিয়ান"
+
+#~ msgctxt "Name"
+#~ msgid "Faroese"
+#~ msgstr "ফাৰোইছ"
+
+#~ msgctxt "Name"
+#~ msgid "French"
+#~ msgstr "ফৰাচী"
+
+#~ msgctxt "Name"
+#~ msgid "Frisian"
+#~ msgstr "ফ্ৰিচিয়ান"
+
+#~ msgctxt "Name"
+#~ msgid "Irish Gaelic"
+#~ msgstr "আইৰিশ্ব গেলিক"
+
+#~ msgctxt "Name"
+#~ msgid "Gaelic"
+#~ msgstr "গেলিক"
+
+#~ msgctxt "Name"
+#~ msgid "Galician"
+#~ msgstr "গেলিচিয়ান"
+
+#~ msgctxt "Name"
+#~ msgid "Guarani"
+#~ msgstr "গুৱাৰানি"
+
+#~ msgctxt "Name"
+#~ msgid "Gujarati"
+#~ msgstr "গুজ্ৰাটি"
+
+#~ msgctxt "Name"
+#~ msgid "Manx"
+#~ msgstr "মানক্স"
+
+#~ msgctxt "Name"
+#~ msgid "Hausa"
+#~ msgstr "হাউছা"
+
+#~ msgctxt "Name"
+#~ msgid "Hebrew"
+#~ msgstr "হিব্ৰিউ"
+
+#~ msgctxt "Name"
+#~ msgid "Hindi"
+#~ msgstr "হিন্দী"
+
+#~ msgctxt "Name"
+#~ msgid "Hiri Motu"
+#~ msgstr "হিৰি মোটু"
+
+#~ msgctxt "Name"
+#~ msgid "Croatian"
+#~ msgstr "ক্ৰোয়েচিয়ান"
+
+#~ msgctxt "Name"
+#~ msgid "Upper Sorbian"
+#~ msgstr "আপাৰ ছৰ্বিয়ান"
+
+#~ msgctxt "Name"
+#~ msgid "Hungarian"
+#~ msgstr "হাঙ্গেৰীয়"
+
+#~ msgctxt "Name"
+#~ msgid "Armenian"
+#~ msgstr "আৰ্মেনিয়ান"
+
+#~ msgctxt "Name"
+#~ msgid "Herero"
+#~ msgstr "হেৰেৰো"
+
+#~ msgctxt "Name"
+#~ msgid "Interlingua"
+#~ msgstr "ইন্টাৰ্লিঙ্গুৱা"
+
+#~ msgctxt "Name"
+#~ msgid "Indonesian"
+#~ msgstr "ইন্ডোনেচীয়"
+
+#~ msgctxt "Name"
+#~ msgid "Interlingue"
+#~ msgstr "ইন্টাৰলিঙ্গ"
+
+#~ msgctxt "Name"
+#~ msgid "Inupiaq"
+#~ msgstr "ইনুপিয়াক"
+
+#~ msgctxt "Name"
+#~ msgid "Ido"
+#~ msgstr "ইদো"
+
+#~ msgctxt "Name"
+#~ msgid "Icelandic"
+#~ msgstr "আইচ্‌লেন্ডিক"
+
+#~ msgctxt "Name"
+#~ msgid "Italian"
+#~ msgstr "ইটালীয়"
+
+#~ msgctxt "Name"
+#~ msgid "Inuktitut"
+#~ msgstr "ইনুক্টিটুট"
+
+#~ msgctxt "Name"
+#~ msgid "Japanese"
+#~ msgstr "জাপানী"
+
+#~ msgctxt "Name"
+#~ msgid "Javanese"
+#~ msgstr "জাভানী"
+
+#~ msgctxt "Name"
+#~ msgid "Georgian"
+#~ msgstr "জৰ্জিয়ান"
+
+#~ msgctxt "Name"
+#~ msgid "Kikuyu"
+#~ msgstr "কিকুয়ু"
+
+#~ msgctxt "Name"
+#~ msgid "Kazakh"
+#~ msgstr "কাজাখ"
+
+#~ msgctxt "Name"
+#~ msgid "Kalaallisut"
+#~ msgstr "কালালিছুট"
+
+#~ msgctxt "Name"
+#~ msgid "Khmer"
+#~ msgstr "খ্‌মেৰ"
+
+#~ msgctxt "Name"
+#~ msgid "Kannada"
+#~ msgstr "কন্নড়"
+
+#~ msgctxt "Name"
+#~ msgid "Korean"
+#~ msgstr "কোৰীয়"
+
+#~ msgctxt "Name"
+#~ msgid "Kashmiri"
+#~ msgstr "কাশ্মীৰি"
+
+#~ msgctxt "Name"
+#~ msgid "Kurdish"
+#~ msgstr "কুৰ্ডিশ্ব"
+
+#~ msgctxt "Name"
+#~ msgid "Komi"
+#~ msgstr "কোমি"
+
+#~ msgctxt "Name"
+#~ msgid "Cornish"
+#~ msgstr "ক'ৰ্নিশ্ব"
+
+#~ msgctxt "Name"
+#~ msgid "Kirghiz"
+#~ msgstr "কিৰ্গিজ"
+
+#~ msgctxt "Name"
+#~ msgid "Latin"
+#~ msgstr "লেটিন"
+
+#~ msgctxt "Name"
+#~ msgid "Luxembourgish"
+#~ msgstr "লাক্সেম্বৰ্গিছ"
+
+#~ msgctxt "Name"
+#~ msgid "Limburgan"
+#~ msgstr "লিম্বুৰ্গান"
+
+#~ msgctxt "Name"
+#~ msgid "Lingala"
+#~ msgstr "লিঙ্গালা"
+
+#~ msgctxt "Name"
+#~ msgid "Lao"
+#~ msgstr "লাও"
+
+#~ msgctxt "Name"
+#~ msgid "Lithuanian"
+#~ msgstr "লিথুৱেনিয়ান"
+
+#~ msgctxt "Name"
+#~ msgid "Latvian"
+#~ msgstr "লাট্‌ভিয়ান"
+
+#~ msgctxt "Name"
+#~ msgid "Maithili"
+#~ msgstr "মৈথিলি"
+
+#~ msgctxt "Name"
+#~ msgid "Malagasy"
+#~ msgstr "মালাগাছি"
+
+#~ msgctxt "Name"
+#~ msgid "Marshallese"
+#~ msgstr "মাৰ্ছালিশ্ব"
+
+#~ msgctxt "Name"
+#~ msgid "Maori"
+#~ msgstr "মাওৰি"
+
+#~ msgctxt "Name"
+#~ msgid "Macedonian"
+#~ msgstr "মেচিডোনীয়"
+
+#~ msgctxt "Name"
+#~ msgid "Malayalam"
+#~ msgstr "মলয়ালম"
+
+#~ msgctxt "Name"
+#~ msgid "Mongolian"
+#~ msgstr "মঙ্গোলীয়"
+
+#~ msgctxt "Name"
+#~ msgid "Moldavian"
+#~ msgstr "মোল্দাভিয়ান"
+
+#~ msgctxt "Name"
+#~ msgid "Marathi"
+#~ msgstr "মাৰাথি"
+
+#~ msgctxt "Name"
+#~ msgid "Malay"
+#~ msgstr "মালায়"
+
+#~ msgctxt "Name"
+#~ msgid "Maltese"
+#~ msgstr "মাল্টিছ"
+
+#~ msgctxt "Name"
+#~ msgid "Burmese"
+#~ msgstr "বাৰ্মিছ"
+
+#~ msgctxt "Name"
+#~ msgid "Nauru"
+#~ msgstr "নাউৰু"
+
+#~ msgctxt "Name"
+#~ msgid "Norwegian Bokmål"
+#~ msgstr "নোৰ্ৱেইয়ান বকমাল"
+
+#~ msgctxt "Name"
+#~ msgid "Ndebele, North"
+#~ msgstr "ডেবেল, নৰ্থ"
+
+#~ msgctxt "Name"
+#~ msgid "Low Saxon"
+#~ msgstr "লো' ছেক্সন"
+
+#~ msgctxt "Name"
+#~ msgid "Nepali"
+#~ msgstr "নেপালী"
+
+#~ msgctxt "Name"
+#~ msgid "Ndonga"
+#~ msgstr "ডঙ্গা"
+
+#~ msgctxt "Name"
+#~ msgid "Dutch"
+#~ msgstr "ডাচ"
+
+#~ msgctxt "Name"
+#~ msgid "Norwegian Nynorsk"
+#~ msgstr "ন'ৰ্ৱেইয়ান নিন'ৰ্স্ক"
+
+#~ msgctxt "Name"
+#~ msgid "Ndebele, South"
+#~ msgstr "ডেবেলে,ছাউথ"
+
+#~ msgctxt "Name"
+#~ msgid "Northern Sotho"
+#~ msgstr "নৰ্দাৰ্ণ ছ'থ'"
+
+#~ msgctxt "Name"
+#~ msgid "Navajo"
+#~ msgstr "নাভাজো"
+
+#~ msgctxt "Name"
+#~ msgid "Chichewa"
+#~ msgstr "ছিছেৱা"
+
+#~ msgctxt "Name"
+#~ msgid "Occitan"
+#~ msgstr "অকিটান"
+
+#~ msgctxt "Name"
+#~ msgid "Oromo"
+#~ msgstr "অ'ৰ'মো'"
+
+#~ msgctxt "Name"
+#~ msgid "Oriya"
+#~ msgstr "ৱৰীয়"
+
+#~ msgctxt "Name"
+#~ msgid "Ossetian"
+#~ msgstr "অচেটিয়ান"
+
+#~ msgctxt "Name"
+#~ msgid "Punjabi/Panjabi"
+#~ msgstr "পাঞ্জাবী/পঞ্জাবী"
+
+#~ msgctxt "Name"
+#~ msgid "Pali"
+#~ msgstr "পালি"
+
+#~ msgctxt "Name"
+#~ msgid "Polish"
+#~ msgstr "প'লিশ্ব"
+
+#~ msgctxt "Name"
+#~ msgid "Pushto"
+#~ msgstr "পুষ্টো"
+
+#~ msgctxt "Name"
+#~ msgid "Portuguese"
+#~ msgstr "প'ৰ্টুগিছ"
+
+#~ msgctxt "Name"
+#~ msgid "Brazilian Portuguese"
+#~ msgstr "ব্ৰাজিলীয় প'ৰ্টুগিছ"
+
+#~ msgctxt "Name"
+#~ msgid "Quechua"
+#~ msgstr "কেছুৱা"
+
+#~ msgctxt "Name"
+#~ msgid "Rundi"
+#~ msgstr "ৰান্ডী"
+
+#~ msgctxt "Name"
+#~ msgid "Romanian"
+#~ msgstr "ৰোমানিয়"
+
+#~ msgctxt "Name"
+#~ msgid "Romany"
+#~ msgstr "ৰোমানি"
+
+#~ msgctxt "Name"
+#~ msgid "Russian"
+#~ msgstr "ৰুচীয়"
+
+#~ msgctxt "Name"
+#~ msgid "Kinyarwanda"
+#~ msgstr "কিন্যাৰ্বান্ডা"
+
+#~ msgctxt "Name"
+#~ msgid "Sanskrit"
+#~ msgstr "সংস্কৃত"
+
+#~ msgctxt "Name"
+#~ msgid "Sardinian"
+#~ msgstr "চাৰ্ডিনিয়ান"
+
+#~ msgctxt "Name"
+#~ msgid "Sindhi"
+#~ msgstr "ছিন্ধি"
+
+#~ msgctxt "Name"
+#~ msgid "Northern Sami"
+#~ msgstr "ন'ৰ্দাৰ্ণ ছামি"
+
+#~ msgctxt "Name"
+#~ msgid "Sango"
+#~ msgstr "ছাঙ্গো"
+
+#, fuzzy
+#~| msgctxt "Name"
+#~| msgid "Sinhalese"
+#~ msgctxt "Name"
+#~ msgid "Sinhala"
+#~ msgstr "সিংহালা"
+
+#~ msgctxt "Name"
+#~ msgid "Slovak"
+#~ msgstr "স্লোভাক"
+
+#~ msgctxt "Name"
+#~ msgid "Slovenian"
+#~ msgstr "স্লোভেনিয়ান"
+
+#~ msgctxt "Name"
+#~ msgid "Samoan"
+#~ msgstr "চামোৱান"
+
+#~ msgctxt "Name"
+#~ msgid "Shona"
+#~ msgstr "ছোনা"
+
+#~ msgctxt "Name"
+#~ msgid "Somali"
+#~ msgstr "চোমালি"
+
+#~ msgctxt "Name"
+#~ msgid "Albanian"
+#~ msgstr "আল্বানিয়ান"
+
+#~ msgctxt "Name"
+#~ msgid "Serbian"
+#~ msgstr "ছাৰ্বিয়ান"
+
+#, fuzzy
+#~| msgctxt "Name"
+#~| msgid "Serbian Latin"
+#~ msgctxt "Name"
+#~ msgid "Serbian Ijekavian"
+#~ msgstr "ছাৰ্বিয়ান লেটিন"
+
+#, fuzzy
+#~| msgctxt "Name"
+#~| msgid "Serbian Latin"
+#~ msgctxt "Name"
+#~ msgid "Serbian Ijekavian Latin"
+#~ msgstr "ছাৰ্বিয়ান লেটিন"
+
+#~ msgctxt "Name"
+#~ msgid "Serbian Latin"
+#~ msgstr "ছাৰ্বিয়ান লেটিন"
+
+#~ msgctxt "Name"
+#~ msgid "Swati"
+#~ msgstr "ছ্বাটি"
+
+#~ msgctxt "Name"
+#~ msgid "Sotho, Southern"
+#~ msgstr "ছো'থো', ছাউদাৰ্ণ"
+
+#~ msgctxt "Name"
+#~ msgid "Sundanese"
+#~ msgstr "ছান্দানিছ"
+
+#~ msgctxt "Name"
+#~ msgid "Swedish"
+#~ msgstr "ছুইদিশ্ব"
+
+#~ msgctxt "Name"
+#~ msgid "Swahili"
+#~ msgstr "ছ্বাহিলি"
+
+#~ msgctxt "Name"
+#~ msgid "Tamil"
+#~ msgstr "তামিল"
+
+#~ msgctxt "Name"
+#~ msgid "Telugu"
+#~ msgstr "তেলুগু"
+
+#~ msgctxt "Name"
+#~ msgid "Tajik"
+#~ msgstr "টাজিক"
+
+#~ msgctxt "Name"
+#~ msgid "Thai"
+#~ msgstr "থাই"
+
+#~ msgctxt "Name"
+#~ msgid "Tigrinya"
+#~ msgstr "টিগ্ৰিন্যা"
+
+#~ msgctxt "Name"
+#~ msgid "Turkmen"
+#~ msgstr "টুৰ্কমেন"
+
+#~ msgctxt "Name"
+#~ msgid "Tswana"
+#~ msgstr "ছ্বানা"
+
+#~ msgctxt "Name"
+#~ msgid "Tonga"
+#~ msgstr "টঙ্গা"
+
+#~ msgctxt "Name"
+#~ msgid "Turkish"
+#~ msgstr "টুৰ্কিশ্ব"
+
+#~ msgctxt "Name"
+#~ msgid "Tsonga"
+#~ msgstr "ছ'ঙ্গা"
+
+#~ msgctxt "Name"
+#~ msgid "Tatar"
+#~ msgstr "টাটাৰ"
+
+#~ msgctxt "Name"
+#~ msgid "Twi"
+#~ msgstr "ট্বি"
+
+#~ msgctxt "Name"
+#~ msgid "Tahitian"
+#~ msgstr "টাহিটিয়ান"
+
+#, fuzzy
+#~| msgctxt "Name"
+#~| msgid "Uighur"
+#~ msgctxt "Name"
+#~ msgid "Uyghur"
+#~ msgstr "উইঘুৰ"
+
+#~ msgctxt "Name"
+#~ msgid "Ukrainian"
+#~ msgstr "ইউক্ৰেনিয়ান"
+
+#~ msgctxt "Name"
+#~ msgid "Urdu"
+#~ msgstr "উৰ্দু"
+
+#~ msgctxt "Name"
+#~ msgid "Uzbek"
+#~ msgstr "উজ্‌বেক"
+
+#~ msgctxt "Name"
+#~ msgid "Uzbek (Cyrillic)"
+#~ msgstr "উজ্‌বেক (ছিৰিলিক)"
+
+#~ msgctxt "Name"
+#~ msgid "Venda"
+#~ msgstr "ভেন্ডা"
+
+#~ msgctxt "Name"
+#~ msgid "Vietnamese"
+#~ msgstr "ভিয়েট্নামি"
+
+#~ msgctxt "Name"
+#~ msgid "Volapük"
+#~ msgstr "ভ'লাপুক"
+
+#~ msgctxt "Name"
+#~ msgid "Walloon"
+#~ msgstr "ৱেলুন"
+
+#~ msgctxt "Name"
+#~ msgid "Wolof"
+#~ msgstr "ৱ'ল'ফ"
+
+#~ msgctxt "Name"
+#~ msgid "Xhosa"
+#~ msgstr "জ'ছা"
+
+#~ msgctxt "Name"
+#~ msgid "Yiddish"
+#~ msgstr "যিদ্দিশ্ব"
+
+#~ msgctxt "Name"
+#~ msgid "Yoruba"
+#~ msgstr "য'ৰুবা"
+
+#~ msgctxt "Name"
+#~ msgid "Zhuang"
+#~ msgstr "ঝুৱাঙ"
+
+#~ msgctxt "Name"
+#~ msgid "Chinese"
+#~ msgstr "চীনা"
+
+#~ msgctxt "Name"
+#~ msgid "Chinese Simplified"
+#~ msgstr "চীনা সৰল কৰা"
+
+#~ msgctxt "Name"
+#~ msgid "Chinese (Hong Kong)"
+#~ msgstr "চীনা (হং কং)"
+
+#~ msgctxt "Name"
+#~ msgid "Chinese Traditional"
+#~ msgstr "চীনা পাৰম্পৰিক"
+
+#~ msgctxt "Name"
+#~ msgid "Zulu"
+#~ msgstr "জুলু"
+
+#, fuzzy
+#~| msgctxt "Name"
+#~| msgid "English"
+#~ msgctxt "Name"
+#~ msgid "US English"
+#~ msgstr "ইংৰাজী"
+
+#~ msgctxt "Name"
+#~ msgid "KDE Plugin Information"
+#~ msgstr "KDE প্লাগ-ইনৰ তথ্য"
+
+#~ msgctxt "Comment"
+#~ msgid "Sonnet Spell Client"
+#~ msgstr "Sonnet Spell Client"
+
+#~ msgctxt "Comment"
+#~ msgid "KDED Module"
+#~ msgstr "KDED অংশ"
+
+#, fuzzy
+#~| msgctxt "Comment"
+#~| msgid "KDED Module"
+#~ msgctxt "Name"
+#~ msgid "KFileModule"
+#~ msgstr "KDED অংশ"
+
+#~ msgctxt "Comment"
+#~ msgid "QImageIOHandler plugin"
+#~ msgstr "QImageIOHandler plugin"
+
+#~ msgctxt "Name"
+#~ msgid "Application"
+#~ msgstr "অনুপ্ৰয়োগ"
+
+#~ msgctxt "Description"
+#~ msgid "A kioslave for data URIs (rfc2397)"
+#~ msgstr "তথ্য URI সমূহৰ বাবে এটা kioslave (rfc2397)"
+
+#~ msgctxt "Name"
+#~ msgid "KDE Configuration Module"
+#~ msgstr "KDE বিন্যাসৰ অংশ"
+
+#~ msgctxt "Name"
+#~ msgid "KDE Configuration Initialization"
+#~ msgstr "KDE বিন্যাস আৰম্ভ কৰা"
+
+#~ msgctxt "Comment"
+#~ msgid "KDE Data Tool"
+#~ msgstr "KDE তথ্যৰ সৰঞ্জাম"
+
+#, fuzzy
+#~| msgctxt "Comment"
+#~| msgid "KDED Module"
+#~ msgctxt "Comment"
+#~ msgid "KIO File Module"
+#~ msgstr "KDED অংশ"
+
+#~ msgctxt "Comment"
+#~ msgid "Plugin for the Properties Dialog"
+#~ msgstr "গুণৰ সম্বাদৰ বাবে প্লাগ-ইন"
+
+#~ msgctxt "Name"
+#~ msgid "KFile Meta Data Plugin"
+#~ msgstr "KFile মেটা ডাটা প্লাগ-ইন"
+
+#~ msgctxt "Comment"
+#~ msgid "KFileWrite plugin"
+#~ msgstr "KFileWrite প্লাগ-ইন"
+
+#~ msgctxt "Name"
+#~ msgid "KScan"
+#~ msgstr "KScan"
+
+#~ msgctxt "Name"
+#~ msgid "Enhanced Browsing Plugin"
+#~ msgstr "উন্নত চৰকৰ প্লাগ-ইন"
+
+#, fuzzy
+#~| msgctxt "Comment"
+#~| msgid "Automatic Proxy Configuration"
+#~ msgctxt "Name"
+#~ msgid "Network Proxy Configuration"
+#~ msgstr "স্বয়ংক্ৰিয় নিযুক্তকৰ বিন্যাস"
+
+#~ msgctxt "Comment"
+#~ msgid "Automatic proxy configuration"
+#~ msgstr "স্বয়ংক্ৰিয় নিযুক্তকৰ বিন্যাস"
+
+#, fuzzy
+#~| msgctxt "Comment"
+#~| msgid "Automatic Proxy Configuration"
+#~ msgctxt "Comment"
+#~ msgid "Network Proxy Configuration"
+#~ msgstr "স্বয়ংক্ৰিয় নিযুক্তকৰ বিন্যাস"
+
+#~ msgctxt "Name"
+#~ msgid "Invalid Proxy Script"
+#~ msgstr "অবৈধ নিয়ুক্তকৰ স্ক্ৰিপ্ট"
+
+#~ msgctxt "Comment"
+#~ msgid "The downloaded proxy configuration script is invalid"
+#~ msgstr "ডাউন্‌লোড কৰা নিযুক্তক বিন্যাসৰ স্ক্ৰিপ্ট অবৈধ"
+
+#~ msgctxt "Name"
+#~ msgid "Script Download Error"
+#~ msgstr "স্ক্ৰিপ্ট ডাউন্‌লোড কৰোঁতে ভুল"
+
+#~ msgctxt "Comment"
+#~ msgid "The proxy configuration script could not be downloaded"
+#~ msgstr "নিযুক্তক বিন্যাসৰ স্ক্ৰিপ্ট ডাউন্‌লোড কৰিব পৰা ন'গ'ল"
+
+#~ msgctxt "Name"
+#~ msgid "Script Evaluation Error"
+#~ msgstr "স্ক্ৰিপ্টৰ পৰীক্ষাত ভুল"
+
+#~ msgctxt "Comment"
+#~ msgid "There was an error executing the proxy configuration script"
+#~ msgstr "নিযুক্তক বিন্যাসৰ স্ক্ৰিপ্ট চলাওঁতে ভুল"
+
+#~ msgctxt "Description"
+#~ msgid "Microsoft Media Server Protocol"
+#~ msgstr "Microsoft Media Server Protocol"
+
+#~ msgctxt "Comment"
+#~ msgid "Plugin for the Rename Dialog"
+#~ msgstr "পুনঃ নামকৰণ সম্বাদৰ বাবে প্লাগ-ইন"
+
+#~ msgctxt "Name"
+#~ msgid "HTTP Cache Cleaner"
+#~ msgstr "HTTP কেছে পৰিষ্কাৰ কৰা সৰঞ্জাম"
+
+#~ msgctxt "Comment"
+#~ msgid "Cleans up old entries from the HTTP cache"
+#~ msgstr "HTTP কেছেৰ পৰা পূৰণা নিবেশ পৰিষ্কাৰ কৰে"
+
+#, fuzzy
+#~| msgctxt "Name"
+#~| msgid "KDED Cookie Jar Module"
+#~ msgctxt "Name"
+#~ msgid "Cookie Jar"
+#~ msgstr "KDED Cookie Jar অংশ"
+
+#~ msgctxt "Name"
+#~ msgid "Dummy Meta"
+#~ msgstr "Dummy Meta"
+
+#~ msgctxt "Comment"
+#~ msgid "Test for Knotify"
+#~ msgstr "Knotify ৰ বাবে পৰীক্ষা"
+
+#~ msgctxt "Name"
+#~ msgid "Group"
+#~ msgstr "সমষ্টি"
+
+#~ msgctxt "Comment"
+#~ msgid "The group"
+#~ msgstr "সমষ্টিটো"
+
+#~ msgctxt "Name"
+#~ msgid "Online"
+#~ msgstr "অন-লাইন"
+
+#~ msgctxt "Comment"
+#~ msgid "The contact is now connected"
+#~ msgstr "সংযোগৰ সৈতে এতিয়া সম্পৰ্ক কৰা হ'ল"
+
+#~ msgctxt "Name"
+#~ msgid "Message Received"
+#~ msgstr "সম্বাদ পোৱা গ'ল"
+
+#~ msgctxt "Comment"
+#~ msgid "A Message has been received"
+#~ msgstr "এটা সম্বাদ পোৱা হৈছে"
+
+#~ msgctxt "Name"
+#~ msgid "Browser View"
+#~ msgstr "চৰকৰ প্ৰদৰ্শন"
+
+#~ msgctxt "Comment"
+#~ msgid "KDE Component"
+#~ msgstr "KDE অংশ"
+
+#~ msgctxt "Name"
+#~ msgid "Notepad (example)"
+#~ msgstr "Notepad (উদাহৰণ)"
+
+#~ msgctxt "Name"
+#~ msgid "Adium Emoticons Theme"
+#~ msgstr "Adium Emoticons থিম"
+
+#~ msgctxt "Comment"
+#~ msgid "Library to use Adium emoticons theme"
+#~ msgstr "Adium emoticons থিম ব্যৱহাৰ কৰা লাইব্ৰেৰী"
+
+#, fuzzy
+#~| msgctxt "Name"
+#~| msgid "Kde Emoticons Theme"
+#~ msgctxt "Name"
+#~ msgid "KDE Emoticons Theme"
+#~ msgstr "Kde Emoticons থিম"
+
+#~ msgctxt "Comment"
+#~ msgid "Library to use KDE emoticons theme"
+#~ msgstr "KDE emoticons থিম ব্যৱহাৰ কৰা লাইব্ৰেৰী"
+
+#~ msgctxt "Name"
+#~ msgid "Pidgin Emoticons Theme"
+#~ msgstr "Pidgin Emoticons থিম"
+
+#~ msgctxt "Comment"
+#~ msgid "Library to use Pidgin emoticons theme"
+#~ msgstr "Pidgin Emoticons থিম ব্যৱহাৰ কৰা লাইব্ৰেৰী"
+
+#~ msgctxt "Name"
+#~ msgid "XMPP Emoticons Theme"
+#~ msgstr "XMPP Emoticons থিম"
+
+#~ msgctxt "Comment"
+#~ msgid "Library to use XMPP emoticons theme"
+#~ msgstr "XMPP Emoticons থিম ব্যৱহাৰ কৰা লাইব্ৰেৰী"
+
+#, fuzzy
+#~| msgctxt "Name"
+#~| msgid "Word Completion"
+#~ msgctxt "Name"
+#~ msgid "Collection"
+#~ msgstr "শব্দ সম্পূৰ্ণ কৰা"
+
+#, fuzzy
+#~| msgctxt "Comment"
+#~| msgid "Plasma wallpaper"
+#~ msgctxt "Description"
+#~ msgid "A protocol for Plasma services"
+#~ msgstr "Plasma wallpaper"
+
+#~ msgctxt "Comment"
+#~ msgid "Plasma Animation Engine"
+#~ msgstr "Plasma Animation Engine"
+
+#~ msgctxt "Comment"
+#~ msgid "Plasma applet"
+#~ msgstr "Plasma এপ্লেট"
+
+#, fuzzy
+#~| msgctxt "Comment"
+#~| msgid "Plasma applet"
+#~ msgctxt "Comment"
+#~ msgid "Plasma scripting popup applet"
+#~ msgstr "Plasma এপ্লেট"
+
+#~ msgctxt "Comment"
+#~ msgid "Plasma applet container and background painter"
+#~ msgstr "Plasma এপ্লেটৰ টেমা আৰু পৃষ্ঠভূমিৰ চিত্ৰকাৰ"
+
+#~ msgctxt "Comment"
+#~ msgid "Plasma Data Engine"
+#~ msgstr "Plasma Data Engine"
+
+#~ msgctxt "Comment"
+#~ msgid "Plasma package structure definition"
+#~ msgstr "Plasma সৰঞ্জাম আকাৰৰ সংজ্ঞা"
+
+#~ msgctxt "Comment"
+#~ msgid "KRunner plugin"
+#~ msgstr "KRunner প্লাগ-ইন"
+
+#~ msgctxt "Comment"
+#~ msgid "Scripting language extension for Plasma"
+#~ msgstr "Plasma ৰ কাৰণে স্ক্ৰিপ্টিং ভাষাৰ সম্প্ৰসাৰণ"
+
+#, fuzzy
+#~| msgctxt "Comment"
+#~| msgid "Plasma wallpaper"
+#~ msgctxt "Comment"
+#~ msgid "Plasma service"
+#~ msgstr "Plasma wallpaper"
+
+#~ msgctxt "Comment"
+#~ msgid "Plasma wallpaper"
+#~ msgstr "Plasma wallpaper"
+
+#~ msgctxt "Name"
+#~ msgid "Package metadata test file"
+#~ msgstr "সৰঞ্জাম মিটাডাটাৰ পৰীক্ষাৰ নথিপত্ৰ"
+
+#~ msgctxt "Comment"
+#~ msgid "A test desktop file to test the PackageMetaData class."
+#~ msgstr "PackageMetaData class পৰীক্ষা কৰিবলৈ এটা ডেষ্কট'প পৰীক্ষাৰ নথিপত্ৰ ।"
+
+#~ msgctxt "Name"
+#~ msgid "Test Data Engine"
+#~ msgstr "পৰীক্ষা তথ্যৰ কলঘৰ"
+
+#~ msgctxt "Name"
+#~ msgid "Crypto"
+#~ msgstr "Crypto"
+
+#~ msgctxt "Comment"
+#~ msgid "Configure SSL, manage certificates, and other cryptography settings"
+#~ msgstr "SSL বিন্যাস কৰক, প্ৰমাণপত্ৰ পৰিচালনা কৰক, আৰু অন্যান্য ক্ৰিপ্টোগ্ৰাফিৰ পছন্দ"
+
+#~ msgctxt "Comment"
+#~ msgid "Embeddable Personal Certificate Manager"
+#~ msgstr "প্ৰোথিত Personal Certificate Manager"
+
+#~ msgctxt "Name"
+#~ msgid "KCertPart"
+#~ msgstr "KCertPart"
+
+#~ msgctxt "Name"
+#~ msgid "ASpell"
+#~ msgstr "ASpell"
+
+#~ msgctxt "Name"
+#~ msgid "Enchant"
+#~ msgstr "Enchant"
+
+#~ msgctxt "Name"
+#~ msgid "HSpell"
+#~ msgstr "HSpell"
+
+#, fuzzy
+#~| msgctxt "Name"
+#~| msgid "HSpell"
+#~ msgctxt "Name"
+#~ msgid "Hunspell"
+#~ msgstr "HSpell"
+
+#~ msgctxt "Name"
+#~ msgid "BMP"
+#~ msgstr "BMP"
+
+#~ msgctxt "Name"
+#~ msgid "DDS"
+#~ msgstr "DDS"
+
+#~ msgctxt "Name"
+#~ msgid "EPS"
+#~ msgstr "EPS"
+
+#~ msgctxt "Name"
+#~ msgid "EXR"
+#~ msgstr "EXR"
+
+#~ msgctxt "Name"
+#~ msgid "GIF"
+#~ msgstr "GIF"
+
+#~ msgctxt "Name"
+#~ msgid "HDR"
+#~ msgstr "HDR"
+
+#~ msgctxt "Name"
+#~ msgid "ICO"
+#~ msgstr "ICO"
+
+#~ msgctxt "Name"
+#~ msgid "JP2"
+#~ msgstr "JP2"
+
+#~ msgctxt "Name"
+#~ msgid "JPEG"
+#~ msgstr "JPEG"
+
+#~ msgctxt "Name"
+#~ msgid "MNG"
+#~ msgstr "MNG"
+
+#~ msgctxt "Name"
+#~ msgid "PBM"
+#~ msgstr "PBM"
+
+#~ msgctxt "Name"
+#~ msgid "PCX"
+#~ msgstr "PCX"
+
+#~ msgctxt "Name"
+#~ msgid "PGM"
+#~ msgstr "PGM"
+
+#~ msgctxt "Name"
+#~ msgid "PNG"
+#~ msgstr "PNG"
+
+#~ msgctxt "Name"
+#~ msgid "PNM"
+#~ msgstr "PNM"
+
+#~ msgctxt "Name"
+#~ msgid "PPM"
+#~ msgstr "PPM"
+
+#~ msgctxt "Name"
+#~ msgid "PSD"
+#~ msgstr "PSD"
+
+#~ msgctxt "Name"
+#~ msgid "RGB"
+#~ msgstr "RGB"
+
+#~ msgctxt "Name"
+#~ msgid "TGA"
+#~ msgstr "TGA"
+
+#~ msgctxt "Name"
+#~ msgid "TIFF"
+#~ msgstr "TIFF"
+
+#~ msgctxt "Name"
+#~ msgid "XBM"
+#~ msgstr "XBM"
+
+#~ msgctxt "Name"
+#~ msgid "XCF"
+#~ msgstr "XCF"
+
+#~ msgctxt "Name"
+#~ msgid "XPM"
+#~ msgstr "XPM"
+
+#~ msgctxt "Name"
+#~ msgid "XV"
+#~ msgstr "XV"
+
+#~ msgctxt "Name"
+#~ msgid "Embedded Advanced Text Editor"
+#~ msgstr "প্ৰোথিত উন্নত লিপি সম্পাদক"
+
+#~ msgctxt "Name"
+#~ msgid "Autobookmarker"
+#~ msgstr "Autobookmarker"
+
+#~ msgctxt "Comment"
+#~ msgid "Set bookmarks on lines matching a pattern when documents are loaded"
+#~ msgstr "আলেখ্যন তোলাৰ সময়ত এটা ধৰণৰ সৈতে একে শাৰীত পত্ৰচিহ্ন দিব ।"
+
+#, fuzzy
+#~| msgctxt "Comment"
+#~| msgid "Automatic Proxy Configuration"
+#~ msgctxt "Name"
+#~ msgid "AutoBrace Configuration"
+#~ msgstr "স্বয়ংক্ৰিয় নিযুক্তকৰ বিন্যাস"
+
+#~ msgctxt "Name"
+#~ msgid "Insert File"
+#~ msgstr "নথিপত্ৰ ভৰাওক"
+
+#~ msgctxt "Comment"
+#~ msgid "Insert any readable file at cursor position"
+#~ msgstr "কাৰ্ছৰৰ স্থানত যিকোনো পঢ়িব পৰা নথিপত্ৰ ভৰাওক"
+
+#~ msgctxt "Name"
+#~ msgid "Data Tools"
+#~ msgstr "তথ্যৰ সৰঞ্জাম"
+
+#~ msgctxt "Comment"
+#~ msgid "Enable data tools like thesaurus and spell check (if installed)"
+#~ msgstr ""
+#~ "থিচ'ৰাছ আৰু বানান পৰীক্ষা (যদি সংস্থাপন কৰা হৈছে)ৰ নিচিনা তথ্যৰ সৰঞ্জাম সক্ৰিয় "
+#~ "কৰক"
+
+#, fuzzy
+#~| msgctxt "Name"
+#~| msgid "Insert File"
+#~ msgctxt "Name"
+#~ msgid "IconInserter"
+#~ msgstr "নথিপত্ৰ ভৰাওক"
+
+#~ msgctxt "Name"
+#~ msgid "Python encoding checker/adder"
+#~ msgstr "Python encoding checker/adder"
+
+#~ msgctxt "Comment"
+#~ msgid "While saving check encoding of python files and add an encoding line"
+#~ msgstr ""
+#~ "ৰক্ষা কৰোঁতে python নথিপত্ৰৰ encoding পৰীক্ষা কৰিব আৰু এটা encoding শাৰী যোগ "
+#~ "কৰিব ।"
+
+#~ msgctxt "Name"
+#~ msgid "Format of Time & Date insertion"
+#~ msgstr "সময় & দিন ভৰুৱাৰ আকৃতি"
+
+#~ msgctxt "Name"
+#~ msgid "Time & Date"
+#~ msgstr "সময় & দিন"
+
+#~ msgctxt "Comment"
+#~ msgid "Insert current Time & Date"
+#~ msgstr "বৰ্ত্তমানৰ সময় & দিন ভৰাওক"
+
+#~ msgctxt "Name"
+#~ msgid "KSSL Daemon Module"
+#~ msgstr "KSSL ডেমন অংশ"
+
+#~ msgctxt "Comment"
+#~ msgid "KSSL daemon module for KDED"
+#~ msgstr "KSSL ডেমন অংশ KDED ৰ বাবে"
+
+#~ msgctxt "Name"
+#~ msgid "Proxy Scout"
+#~ msgstr "Proxy Scout"
+
+#~ msgctxt "Comment"
+#~ msgid "Keeps track of all cookies in the system"
+#~ msgstr "ব্যৱস্থাপ্ৰণালীৰ সকলো কুকিৰ পৰিচালনা কৰে"
+
+#, fuzzy
+#~| msgctxt "Name"
+#~| msgid "Latin"
+#~ msgctxt "Name"
+#~ msgid "Long action"
+#~ msgstr "লেটিন"
+
+#, fuzzy
+#~| msgctxt "Comment"
+#~| msgid "Plasma applet"
+#~ msgctxt "Name"
+#~ msgid "Plasma"
+#~ msgstr "Plasma এপ্লেট"
+
+#~ msgctxt "Name"
+#~ msgid "Internal Extender Container"
+#~ msgstr "Internal Extender Container"
+
+#~ msgctxt "Comment"
+#~ msgid "Directional or popup-based completion from words in the document"
+#~ msgstr "আলেখ্যনত শব্দৰ দিশৰ মতে বা প'প-আপ ভিত্তিত সম্পূৰ্ণ কৰা"
+
+#~ msgctxt "Name"
+#~ msgid "Behavior"
+#~ msgstr "আচাৰ ব্যৱহাৰ"
+
+#~ msgctxt "Name"
+#~ msgid "KDED Global Shortcuts Server"
+#~ msgstr "KDED সৰ্বব্যাপী ছৰ্টকাটৰ সেৱক"
+
+#~ msgctxt "Name"
+#~ msgid "KWallet Daemon Module"
+#~ msgstr "KWallet ডেমন অংশ"
+
+#~ msgctxt "Comment"
+#~ msgid "KWallet daemon module for KDED"
+#~ msgstr "KWallet ডেমন অংশ KDED ৰ বাবে"

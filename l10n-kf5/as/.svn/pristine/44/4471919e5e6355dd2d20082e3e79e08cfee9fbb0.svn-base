@@ -1,0 +1,1687 @@
+# Amitakhya Phukan <অমিতাক্ষ ফুকন>, 2009.
+msgid ""
+msgstr ""
+"Project-Id-Version: desktop files\n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2020-02-02 02:46+0000\n"
+"PO-Revision-Date: 2009-01-12 16:16+0530\n"
+"Last-Translator: Amitakhya Phukan <অমিতাক্ষ ফুকন>\n"
+"Language-Team: Assamese <fedora-trans-as@redhat.com>\n"
+"Language: as\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Lokalize 0.2\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+
+#: applets/icontasks/metadata.desktop:2
+msgctxt "Name"
+msgid "Icons-only Task Manager"
+msgstr ""
+
+#: applets/icontasks/metadata.desktop:50
+#: applets/taskmanager/package/metadata.desktop:83
+msgctxt "Comment"
+msgid "Switch between running applications"
+msgstr ""
+
+#: applets/kicker/package/metadata.desktop:2
+msgctxt "Name"
+msgid "Application Menu"
+msgstr ""
+
+#: applets/kicker/package/metadata.desktop:54
+msgctxt "Comment"
+msgid "A launcher based on cascading popup menus"
+msgstr ""
+
+#: applets/kickoff/package/metadata.desktop:2
+msgctxt "Name"
+msgid "Application Launcher"
+msgstr ""
+
+#: applets/kickoff/package/metadata.desktop:88
+msgctxt "Comment"
+msgid "Launcher to start applications"
+msgstr ""
+
+#: applets/kimpanel/backend/ibus/emojier/org.kde.plasma.emojier.desktop:3
+msgctxt "Name"
+msgid "Emoji Selector"
+msgstr ""
+
+#: applets/kimpanel/package/metadata.desktop:2
+msgctxt "Name"
+msgid "Input Method Panel"
+msgstr ""
+
+#: applets/kimpanel/package/metadata.desktop:43
+msgctxt "Comment"
+msgid "A generic input method panel"
+msgstr ""
+
+#: applets/kimpanel/package/metadata.desktop:83
+msgctxt "Keywords"
+msgid "Input;IM;"
+msgstr ""
+
+#: applets/minimizeall/package/metadata.desktop:2
+msgctxt "Name"
+msgid "Minimize all Windows"
+msgstr ""
+
+#: applets/minimizeall/package/metadata.desktop:35
+msgctxt "Comment"
+msgid "Shows the desktop by minimizing all windows"
+msgstr ""
+
+#: applets/pager/package/metadata.desktop:2
+msgctxt "Name"
+msgid "Pager"
+msgstr ""
+
+#: applets/pager/package/metadata.desktop:85
+msgctxt "Comment"
+msgid "Switch between virtual desktops"
+msgstr ""
+
+#: applets/showActivityManager/package/metadata.desktop:2
+#: kcms/activities/kcm_activities.desktop:15
+#, fuzzy
+#| msgctxt "GenericName"
+#| msgid "Contact Manager"
+msgctxt "Name"
+msgid "Activities"
+msgstr "পৰিচয়ৰ পৰিচালক"
+
+#: applets/showActivityManager/package/metadata.desktop:63
+#, fuzzy
+#| msgctxt "GenericName"
+#| msgid "Contact Manager"
+msgctxt "Comment"
+msgid "Shows the activity manager"
+msgstr "পৰিচয়ৰ পৰিচালক"
+
+#: applets/showdesktop/package/metadata.desktop:2
+#, fuzzy
+#| msgctxt "Name"
+#| msgid "Desktop"
+msgctxt "Name"
+msgid "Show Desktop"
+msgstr "ডেস্কট'প"
+
+#: applets/showdesktop/package/metadata.desktop:35
+msgctxt "Comment"
+msgid "Show the Plasma desktop"
+msgstr ""
+
+#: applets/taskmanager/package/metadata.desktop:2
+msgctxt "Name"
+msgid "Task Manager"
+msgstr ""
+
+#: applets/trash/package/metadata.desktop:2
+msgctxt "Name"
+msgid "Trashcan"
+msgstr ""
+
+#: applets/trash/package/metadata.desktop:81
+msgctxt "Comment"
+msgid "Provides access to the files sent to trash"
+msgstr ""
+
+#: applets/window-list/metadata.desktop:2
+#, fuzzy
+#| msgctxt "Name"
+#| msgid "MS Windows 9x"
+msgctxt "Name"
+msgid "Window list"
+msgstr "MS Windows 9x"
+
+#: applets/window-list/metadata.desktop:54
+msgctxt "Comment"
+msgid "Plasmoid to show list of opened windows."
+msgstr ""
+
+#: containments/desktop/package/metadata.desktop:2
+#: desktoppackage/metadata.desktop:46
+#, fuzzy
+#| msgctxt "Name"
+#| msgid "Desktop"
+msgctxt "Name"
+msgid "Desktop"
+msgstr "ডেস্কট'প"
+
+#: containments/desktop/package/metadata.desktop:91
+msgctxt "Comment"
+msgid "A clean and simple layout"
+msgstr ""
+
+#: containments/folder/metadata.desktop:2
+msgctxt "Name"
+msgid "Folder View"
+msgstr ""
+
+#: containments/folder/metadata.desktop:47
+msgctxt "Comment"
+msgid "Display the contents of folders"
+msgstr ""
+
+#: containments/panel/metadata.desktop:3
+msgctxt "Name"
+msgid "Panel"
+msgstr ""
+
+#: containments/panel/plasma-containment-panel.desktop:2
+#: layout-templates/org.kde.plasma.desktop.emptyPanel/metadata.desktop:2
+msgctxt "Name"
+msgid "Empty Panel"
+msgstr ""
+
+#: containments/panel/plasma-containment-panel.desktop:55
+msgctxt "Comment"
+msgid "A simple linear panel"
+msgstr ""
+
+#: dataengines/kimpanel/plasma-dataengine-kimpanel.desktop:2
+msgctxt "Name"
+msgid "DataEngine for Kimpanel"
+msgstr ""
+
+#: dataengines/kimpanel/plasma-dataengine-kimpanel.desktop:40
+msgctxt "Comment"
+msgid "DataEngine for Kimpanel"
+msgstr ""
+
+#: desktoppackage/metadata.desktop:2
+#, fuzzy
+#| msgctxt "GenericName"
+#| msgid "Desktop Magnifier"
+msgctxt "Comment"
+msgid "Desktop view furniture"
+msgstr "ডেষ্কট'প বৰ্দ্ধক"
+
+#: kaccess/kaccess.desktop:3
+msgctxt "Name"
+msgid "KDE Accessibility Tool"
+msgstr ""
+
+#: kaccess/kaccess.notifyrc:3
+msgctxt "Comment"
+msgid "Accessibility"
+msgstr "অভিগম্যতা"
+
+#: kaccess/kaccess.notifyrc:96
+msgctxt "Name"
+msgid "A modifier key has become active"
+msgstr ""
+
+#: kaccess/kaccess.notifyrc:173
+msgctxt "Comment"
+msgid ""
+"A modifier key (e.g. Shift or Ctrl) has changed its state and is now active"
+msgstr ""
+
+#: kaccess/kaccess.notifyrc:251
+msgctxt "Name"
+msgid "A modifier key has become inactive"
+msgstr ""
+
+#: kaccess/kaccess.notifyrc:328
+msgctxt "Comment"
+msgid ""
+"A modifier key (e.g. Shift or Ctrl) has changed its state and is now inactive"
+msgstr ""
+
+#: kaccess/kaccess.notifyrc:406
+msgctxt "Name"
+msgid "A modifier key has been locked"
+msgstr ""
+
+#: kaccess/kaccess.notifyrc:484
+msgctxt "Comment"
+msgid ""
+"A modifier key (e.g. Shift or Ctrl) has been locked and is now active for "
+"all of the following keypresses"
+msgstr ""
+
+#: kaccess/kaccess.notifyrc:562
+msgctxt "Name"
+msgid "A lock key has been activated"
+msgstr ""
+
+#: kaccess/kaccess.notifyrc:641
+msgctxt "Comment"
+msgid ""
+"A lock key (e.g. Caps Lock or Num Lock) has changed its state and is now "
+"active"
+msgstr ""
+
+#: kaccess/kaccess.notifyrc:719
+msgctxt "Name"
+msgid "A lock key has been deactivated"
+msgstr ""
+
+#: kaccess/kaccess.notifyrc:798
+msgctxt "Comment"
+msgid ""
+"A lock key (e.g. Caps Lock or Num Lock) has changed its state and is now "
+"inactive"
+msgstr ""
+
+#: kaccess/kaccess.notifyrc:876
+msgctxt "Name"
+msgid "Sticky keys has been enabled or disabled"
+msgstr ""
+
+#: kaccess/kaccess.notifyrc:951
+msgctxt "Comment"
+msgid "Sticky keys has been enabled or disabled"
+msgstr ""
+
+#: kaccess/kaccess.notifyrc:1031
+msgctxt "Name"
+msgid "Slow keys has been enabled or disabled"
+msgstr ""
+
+#: kaccess/kaccess.notifyrc:1105
+msgctxt "Comment"
+msgid "Slow keys has been enabled or disabled"
+msgstr ""
+
+#: kaccess/kaccess.notifyrc:1184
+msgctxt "Name"
+msgid "Bounce keys has been enabled or disabled"
+msgstr ""
+
+#: kaccess/kaccess.notifyrc:1259
+msgctxt "Comment"
+msgid "Bounce keys has been enabled or disabled"
+msgstr ""
+
+#: kaccess/kaccess.notifyrc:1339
+msgctxt "Name"
+msgid "Mouse keys has been enabled or disabled"
+msgstr ""
+
+#: kaccess/kaccess.notifyrc:1414
+msgctxt "Comment"
+msgid "Mouse keys has been enabled or disabled"
+msgstr ""
+
+#: kcms/access/kcmaccess.desktop:17
+msgctxt "Name"
+msgid "Accessibility"
+msgstr "অভিগম্যতা"
+
+#: kcms/access/kcmaccess.desktop:111
+#, fuzzy
+#| msgctxt "Comment"
+#| msgid "Accessibility"
+msgctxt "Comment"
+msgid "Accessibility Options"
+msgstr "অভিগম্যতা"
+
+#: kcms/access/kcmaccess.desktop:160
+msgctxt "X-KDE-Keywords"
+msgid ""
+"access,accessibility,deaf,impaired,hearing,hearing loss,bell,audible bell,"
+"visible bell,visual bell,Keyboard,keys,sticky keys,bounce keys,slow keys,"
+"mouse navigation,num pad,numpad,activation gestures,gestures,sticky,modifier "
+"keys,modifier,locking keys"
+msgstr ""
+
+#: kcms/activities/kcm_activities.desktop:76
+msgctxt "Comment"
+msgid "Activities help you to focus on a specific task"
+msgstr ""
+
+#: kcms/autostart/autostart.desktop:14
+msgctxt "Name"
+msgid "Autostart"
+msgstr ""
+
+#: kcms/autostart/autostart.desktop:104
+msgctxt "Comment"
+msgid "Automatically Started Applications"
+msgstr ""
+
+#: kcms/autostart/autostart.desktop:152
+msgctxt "X-KDE-Keywords"
+msgid "Autostart Manager,autostart,startup,system startup,plasma start,cron"
+msgstr ""
+
+#: kcms/baloo/kcm_baloofile.desktop:15
+#, fuzzy
+#| msgctxt "Name"
+#| msgid "Find Part"
+msgctxt "Name"
+msgid "File Search"
+msgstr "বিভাজন বিচাৰক"
+
+#: kcms/baloo/kcm_baloofile.desktop:61
+msgctxt "Comment"
+msgid "Configure File Search"
+msgstr ""
+
+#: kcms/baloo/kcm_baloofile.desktop:107
+msgctxt "X-KDE-Keywords"
+msgid "Search, File, Baloo"
+msgstr ""
+
+#: kcms/baloo/package/metadata.desktop:2
+#, fuzzy
+#| msgctxt "Name"
+#| msgid "Find Part"
+msgctxt "Name"
+msgid "Search"
+msgstr "বিভাজন বিচাৰক"
+
+#: kcms/baloo/package/metadata.desktop:33
+msgctxt "Comment"
+msgid "Configure the File Indexer"
+msgstr ""
+
+#: kcms/colors/colorschemes.knsrc:2
+#, fuzzy
+#| msgctxt "Name"
+#| msgid "Desktop"
+msgctxt "Name"
+msgid "Color Schemes"
+msgstr "ডেস্কট'প"
+
+#: kcms/colors/editor/org.kde.kcolorschemeeditor.desktop:2
+msgctxt "GenericName"
+msgid "Color scheme editor"
+msgstr ""
+
+#: kcms/colors/editor/org.kde.kcolorschemeeditor.desktop:42
+msgctxt "Name"
+msgid "KColorSchemeEditor"
+msgstr ""
+
+#: kcms/colors/editor/org.kde.kcolorschemeeditor.desktop:82
+msgctxt "Comment"
+msgid "Plasma color scheme editor"
+msgstr ""
+
+#: kcms/colors/kcm_colors.desktop:14 kcms/colors/package/metadata.desktop:2
+#, fuzzy
+#| msgctxt "Name"
+#| msgid "Desktop"
+msgctxt "Name"
+msgid "Colors"
+msgstr "ডেস্কট'প"
+
+#: kcms/colors/kcm_colors.desktop:107 kcms/colors/package/metadata.desktop:94
+#, fuzzy
+#| msgctxt "Name"
+#| msgid "Desktop"
+msgctxt "Comment"
+msgid "Choose color scheme"
+msgstr "ডেস্কট'প"
+
+#: kcms/colors/kcm_colors.desktop:142
+msgctxt "X-KDE-Keywords"
+msgid ""
+"colors,colours,scheme,contrast,Widget colors,Color Scheme,color style,color "
+"theme"
+msgstr ""
+
+#: kcms/componentchooser/componentchooser.desktop:14
+msgctxt "Name"
+msgid "Default Applications"
+msgstr ""
+
+#: kcms/componentchooser/componentchooser.desktop:99
+msgctxt "Comment"
+msgid "Default Applications"
+msgstr ""
+
+#: kcms/componentchooser/componentchooser.desktop:149
+msgctxt "X-KDE-Keywords"
+msgid ""
+"default applications,components,component chooser,resources,e-mail,email "
+"client,text editor,instant messenger,terminal emulator,web browser,URL,"
+"hyperlinks"
+msgstr ""
+
+#: kcms/componentchooser/componentservices/kcm_browser.desktop:4
+#, fuzzy
+#| msgctxt "GenericName"
+#| msgid "Web Browser"
+msgctxt "Name|standard desktop component"
+msgid "Web Browser"
+msgstr "ৱেব চৰক"
+
+#: kcms/componentchooser/componentservices/kcm_browser.desktop:76
+msgctxt "Comment"
+msgid ""
+"Here you can configure your default web browser. All KDE applications in "
+"which you can select hyperlinks should honor this setting."
+msgstr ""
+
+#: kcms/componentchooser/componentservices/kcm_filemanager.desktop:4
+#, fuzzy
+#| msgctxt "GenericName"
+#| msgid "File Manager"
+msgctxt "Name|standard desktop component"
+msgid "File Manager"
+msgstr "নথিপত্ৰৰ পৰিচালক"
+
+#: kcms/componentchooser/componentservices/kcm_filemanager.desktop:54
+msgctxt "Comment"
+msgid ""
+"Here you can configure your default file manager. The entries in the K menu "
+"and all KDE applications in which you can open folders will use this file "
+"manager."
+msgstr ""
+
+#: kcms/componentchooser/componentservices/kcm_kemail.desktop:4
+#, fuzzy
+#| msgctxt "GenericName"
+#| msgid "Mail Client"
+msgctxt "Name|standard desktop component"
+msgid "Email Client"
+msgstr "ডাক ব্যৱস্থাৰ গ্ৰাহক"
+
+#: kcms/componentchooser/componentservices/kcm_kemail.desktop:76
+msgctxt "Comment"
+msgid ""
+"This service allows you to configure your default email client. All KDE "
+"applications which need access to an email client application should honor "
+"this setting."
+msgstr ""
+
+#: kcms/componentchooser/componentservices/kcm_terminal.desktop:4
+#, fuzzy
+#| msgctxt "GenericName"
+#| msgid "Arcade Emulator"
+msgctxt "Name|standard desktop component"
+msgid "Terminal Emulator"
+msgstr "Arcade Emulator"
+
+#: kcms/componentchooser/componentservices/kcm_terminal.desktop:76
+msgctxt "Comment"
+msgid ""
+"This service allows you to configure your default terminal emulator. All KDE "
+"applications which invoke a terminal emulator application should honor this "
+"setting."
+msgstr ""
+
+#: kcms/cursortheme/kcm_cursortheme.desktop:13
+#: kcms/cursortheme/package/metadata.desktop:2
+#: kcms/cursortheme/xcursor/xcursor.knsrc:2
+#, fuzzy
+#| msgctxt "Name"
+#| msgid "Desktop"
+msgctxt "Name"
+msgid "Cursors"
+msgstr "ডেস্কট'প"
+
+#: kcms/cursortheme/kcm_cursortheme.desktop:56
+#: kcms/cursortheme/package/metadata.desktop:44
+#, fuzzy
+#| msgctxt "Name"
+#| msgid "Desktop"
+msgctxt "Comment"
+msgid "Choose mouse cursor theme"
+msgstr "ডেস্কট'প"
+
+#: kcms/cursortheme/kcm_cursortheme.desktop:89
+msgctxt "X-KDE-Keywords"
+msgid ""
+"Mouse,Cursor,Theme,Cursor Appearance,Cursor Color,Cursor Theme,Mouse Theme,"
+"Mouse Appearance,Mouse Skins,Pointer Colors,Pointer Appearance"
+msgstr ""
+
+#: kcms/dateandtime/clock.desktop:16
+msgctxt "Name"
+msgid "Date & Time"
+msgstr ""
+
+#: kcms/dateandtime/clock.desktop:109
+#, fuzzy
+#| msgctxt "Name"
+#| msgid "Date and Time"
+msgctxt "Comment"
+msgid "Date and Time"
+msgstr "তাৰিখ আৰু সময়"
+
+#: kcms/dateandtime/clock.desktop:159
+msgctxt "X-KDE-Keywords"
+msgid ""
+"clock,date,time,time zone,ntp,synchronize,calendar,local time,region time"
+msgstr ""
+
+#: kcms/dateandtime/kcmclock_actions.actions:2
+#, fuzzy
+#| msgctxt "Name"
+#| msgid "Date and Time"
+msgctxt "Name"
+msgid "Date and Time Control Module"
+msgstr "তাৰিখ আৰু সময়"
+
+#: kcms/dateandtime/kcmclock_actions.actions:74
+msgctxt "Name"
+msgid "Save the date/time settings"
+msgstr ""
+
+#: kcms/dateandtime/kcmclock_actions.actions:142
+msgctxt "Description"
+msgid "System policies prevent you from saving the date/time settings."
+msgstr ""
+
+#: kcms/desktoppaths/desktoppath.desktop:13
+msgctxt "Name"
+msgid "Locations"
+msgstr ""
+
+#: kcms/desktoppaths/desktoppath.desktop:58
+msgctxt "Comment"
+msgid "Location for Personal Files"
+msgstr ""
+
+#: kcms/desktoppaths/desktoppath.desktop:101
+msgctxt "X-KDE-Keywords"
+msgid ""
+"konqueror,dolphin,files,filemanager,path, paths,desktop,directories,"
+"autostart,downloads,music,documents,movies,pictures"
+msgstr ""
+
+#: kcms/desktoptheme/kcm_desktoptheme.desktop:13
+#: kcms/desktoptheme/package/metadata.desktop:2
+msgctxt "Name"
+msgid "Plasma Style"
+msgstr ""
+
+#: kcms/desktoptheme/kcm_desktoptheme.desktop:45
+#, fuzzy
+#| msgctxt "Name"
+#| msgid "Desktop"
+msgctxt "Comment"
+msgid "Choose Plasma style"
+msgstr "ডেস্কট'প"
+
+#: kcms/desktoptheme/kcm_desktoptheme.desktop:77
+#, fuzzy
+#| msgctxt "Name"
+#| msgid "Desktop"
+msgctxt "X-KDE-Keywords"
+msgid "Desktop Theme,Plasma Theme"
+msgstr "ডেস্কট'প"
+
+#: kcms/desktoptheme/package/metadata.desktop:34
+#, fuzzy
+#| msgctxt "Name"
+#| msgid "Desktop"
+msgctxt "Comment"
+msgid "Choose Plasma theme"
+msgstr "ডেস্কট'প"
+
+#: kcms/desktoptheme/plasma-themes.knsrc:2
+msgctxt "Name"
+msgid "Plasma Styles"
+msgstr ""
+
+#: kcms/emoticons/emoticons.desktop:13 kcms/emoticons/emoticons.knsrc:2
+msgctxt "Name"
+msgid "Emoticons"
+msgstr "ভাব-প্ৰতীক"
+
+#: kcms/emoticons/emoticons.desktop:97
+#, fuzzy
+#| msgctxt "Name"
+#| msgid "Desktop"
+msgctxt "Comment"
+msgid "Choose emoticon theme"
+msgstr "ডেস্কট'প"
+
+#: kcms/emoticons/emoticons.desktop:130
+#, fuzzy
+#| msgctxt "Name"
+#| msgid "Emoticons"
+msgctxt "X-KDE-Keywords"
+msgid "Emoticons"
+msgstr "ভাব-প্ৰতীক"
+
+#: kcms/fonts/kcm_fonts.desktop:14 kcms/fonts/package/metadata.desktop:2
+#: kcms/kfontinst/kcmfontinst/kfontinst.knsrc:2
+#: kcms/kfontinst/kio/fonts.desktop:5
+msgctxt "Name"
+msgid "Fonts"
+msgstr ""
+
+#: kcms/fonts/kcm_fonts.desktop:107 kcms/fonts/package/metadata.desktop:95
+#, fuzzy
+#| msgctxt "Comment"
+#| msgid "Configure web cache settings"
+msgctxt "Comment"
+msgid "Configure user interface fonts"
+msgstr "ৱেব কেছেৰ পছন্ধ বিন্যাস কৰক"
+
+#: kcms/fonts/kcm_fonts.desktop:141
+msgctxt "X-KDE-Keywords"
+msgid ""
+"fonts,font size,styles,charsets,character sets,panel,control panel,desktops,"
+"FileManager,Toolbars,Menu,Window Title,Title,DPI,anti-aliasing,desktop fonts,"
+"toolbar fonts,character,general fonts"
+msgstr ""
+
+#: kcms/formats/formats.desktop:14
+msgctxt "Name"
+msgid "Formats"
+msgstr ""
+
+#: kcms/formats/formats.desktop:61
+msgctxt "Comment"
+msgid "Numeric, Currency and Time Formats"
+msgstr ""
+
+#: kcms/formats/formats.desktop:108
+msgctxt "X-KDE-Keywords"
+msgid ""
+"language,translation,number format,locale,Country,charsets,character sets,"
+"Decimal symbol,Thousands separator,symbol,separator,sign,positive,negative,"
+"currency,money,fractional digits,calendar,time,date,formats,week,week start,"
+"first,paper,size,letter,A4,measure,metric,English,Imperial"
+msgstr ""
+
+#: kcms/hardware/joystick/joystick.desktop:17
+#, fuzzy
+#| msgctxt "Name"
+#| msgid "Date and Time"
+msgctxt "Comment"
+msgid "Calibrate Game Controller"
+msgstr "তাৰিখ আৰু সময়"
+
+#: kcms/hardware/joystick/joystick.desktop:47
+#, fuzzy
+#| msgctxt "Name"
+#| msgid "Date and Time"
+msgctxt "Name"
+msgid "Game Controller"
+msgstr "তাৰিখ আৰু সময়"
+
+#: kcms/hardware/joystick/joystick.desktop:79
+msgctxt "X-KDE-Keywords"
+msgid "joystick,gamepad,controller"
+msgstr ""
+
+#: kcms/icons/icons.knsrc:2 kcms/icons/kcm_icons.desktop:14
+#: kcms/icons/package/metadata.desktop:2
+msgctxt "Name"
+msgid "Icons"
+msgstr "আইকন"
+
+#: kcms/icons/kcm_icons.desktop:107 kcms/icons/package/metadata.desktop:94
+#, fuzzy
+#| msgctxt "Name"
+#| msgid "Desktop"
+msgctxt "Comment"
+msgid "Choose icon theme"
+msgstr "ডেস্কট'প"
+
+#: kcms/icons/kcm_icons.desktop:140
+msgctxt "X-KDE-Keywords"
+msgid "icons,effects,size,hicolor,locolor"
+msgstr ""
+
+#: kcms/input/mouse.desktop:16 kcms/mouse/mouse.desktop:16
+msgctxt "Name"
+msgid "Mouse"
+msgstr ""
+
+#: kcms/input/mouse.desktop:109 kcms/mouse/mouse.desktop:109
+msgctxt "Comment"
+msgid "Mouse Controls"
+msgstr ""
+
+#: kcms/input/mouse.desktop:156
+msgctxt "X-KDE-Keywords"
+msgid ""
+"Mouse,Mouse acceleration,Mouse threshold,Mouse buttons,Selection,Cursor "
+"Shape,Input Devices,Button Mapping,Click,icons,feedback,Pointers,Drag,Double "
+"Click,Single Click,mapping,right handed,left handed,Pointer Device,Mouse "
+"Wheel,Mouse Emulation,Mouse Navigation,Mouse Drag and Drop,Mouse Scrolling,"
+"Mouse Sensitivity,Move Mouse with Num Pad,Mouse Num Pad Emulation"
+msgstr ""
+
+#: kcms/kded/kcmkded.desktop:14 kcms/kded/package/metadata.desktop:2
+msgctxt "Name"
+msgid "Background Services"
+msgstr ""
+
+#: kcms/kded/kcmkded.desktop:59 kcms/kded/package/metadata.desktop:47
+#, fuzzy
+#| msgctxt "Comment"
+#| msgid "Configure web cache settings"
+msgctxt "Comment"
+msgid "Configure background services"
+msgstr "ৱেব কেছেৰ পছন্ধ বিন্যাস কৰক"
+
+#: kcms/kded/kcmkded.desktop:77
+#, fuzzy
+#| msgctxt "Name"
+#| msgid "Dolphin View"
+msgctxt "X-KDE-Keywords"
+msgid "KDED,Daemon,Services"
+msgstr "Dolphin প্ৰদৰ্শন"
+
+#: kcms/keyboard/kcm_keyboard.desktop:17
+msgctxt "Name"
+msgid "Keyboard"
+msgstr ""
+
+#: kcms/keyboard/kcm_keyboard.desktop:109
+msgctxt "Comment"
+msgid "Keyboard Hardware and Layout"
+msgstr ""
+
+#: kcms/keyboard/kcm_keyboard.desktop:156
+msgctxt "X-KDE-Keywords"
+msgid ""
+"Keyboard,Keyboard repeat,Click volume,Input Devices,repeat,volume,NumLock,"
+"NumPad,Keyboard type,Keyboard model,Keyboard layout,Key layout,Language,"
+"Alternate Keyboard,Keyboard switching,Ctrl Key,Caps Lock,Esperanto,"
+"Circumflex,Kill X Server,LED Keyboard,Compose Key"
+msgstr ""
+
+#: kcms/keyboard/keyboard.desktop:11
+msgctxt "Name"
+msgid "Keyboard Daemon"
+msgstr ""
+
+#: kcms/keyboard/keyboard.desktop:75
+msgctxt "Comment"
+msgid "Enables switching keyboard layout through shortcuts or system tray"
+msgstr ""
+
+#: kcms/keys/keys.desktop:14
+msgctxt "Name"
+msgid "Global Shortcuts"
+msgstr ""
+
+#: kcms/keys/keys.desktop:57
+msgctxt "Comment"
+msgid "Global Keyboard Shortcuts"
+msgstr ""
+
+#: kcms/keys/keys.desktop:105
+msgctxt "X-KDE-Keywords"
+msgid ""
+"Keys,Global key bindings,Key scheme,Key bindings,shortcuts,application "
+"shortcuts,global shortcuts"
+msgstr ""
+
+#: kcms/kfontinst/apps/installfont.desktop:7
+msgctxt "Name"
+msgid "Install..."
+msgstr "সংস্থাপন কৰক..."
+
+#: kcms/kfontinst/apps/org.kde.kfontview.desktop:2
+msgctxt "Name"
+msgid "KFontView"
+msgstr ""
+
+#: kcms/kfontinst/apps/org.kde.kfontview.desktop:97
+msgctxt "GenericName"
+msgid "Font Viewer"
+msgstr ""
+
+#: kcms/kfontinst/dbus/fontinst.actions:2
+msgctxt "Name"
+msgid "Font Installer"
+msgstr ""
+
+#: kcms/kfontinst/dbus/fontinst.actions:96
+msgctxt "Name"
+msgid "Manage system-wide fonts."
+msgstr ""
+
+#: kcms/kfontinst/dbus/fontinst.actions:163
+msgctxt "Description"
+msgid "Modifying the system-wide font configuration requires privileges."
+msgstr ""
+
+#: kcms/kfontinst/kcmfontinst/fontinst.desktop:14
+#, fuzzy
+#| msgctxt "Name"
+#| msgid "File Management"
+msgctxt "Name"
+msgid "Font Management"
+msgstr "নথিপত্ৰৰ পৰিচালনা"
+
+#: kcms/kfontinst/kcmfontinst/fontinst.desktop:73
+msgctxt "Comment"
+msgid "Install, manage and preview fonts"
+msgstr ""
+
+#: kcms/kfontinst/kcmfontinst/fontinst.desktop:107
+msgctxt "X-KDE-Keywords"
+msgid "font,fonts,installer,truetype,type1,bitmap"
+msgstr ""
+
+#: kcms/kfontinst/thumbnail/fontthumbnail.desktop:3
+msgctxt "Name"
+msgid "Font Files"
+msgstr ""
+
+#: kcms/kfontinst/viewpart/kfontviewpart.desktop:2
+msgctxt "Name"
+msgid "Font Viewer"
+msgstr ""
+
+#: kcms/ksmserver/kcmsmserver.desktop:14
+#, fuzzy
+#| msgctxt "Name"
+#| msgid "Desktop"
+msgctxt "Name"
+msgid "Desktop Session"
+msgstr "ডেস্কট'প"
+
+#: kcms/ksmserver/kcmsmserver.desktop:61
+msgctxt "Comment"
+msgid "Desktop Session Login and Logout"
+msgstr ""
+
+#: kcms/ksmserver/kcmsmserver.desktop:106
+msgctxt "X-KDE-Keywords"
+msgid "ksmserver,session,logout,confirmation,save,restore,efi,uefi,bios"
+msgstr ""
+
+#: kcms/ksplash/kcm_splashscreen.desktop:15
+#: kcms/ksplash/package/metadata.desktop:2
+msgctxt "Name"
+msgid "Splash Screen"
+msgstr ""
+
+#: kcms/ksplash/kcm_splashscreen.desktop:63
+#: kcms/ksplash/package/metadata.desktop:50
+#, fuzzy
+#| msgctxt "Name"
+#| msgid "Desktop"
+msgctxt "Comment"
+msgid "Choose splash screen theme"
+msgstr "ডেস্কট'প"
+
+#: kcms/ksplash/kcm_splashscreen.desktop:96
+msgctxt "X-KDE-Keywords"
+msgid "splash screen,splash theme,startup"
+msgstr ""
+
+#: kcms/ksplash/ksplash.knsrc:2
+msgctxt "Name"
+msgid "Splash Screens"
+msgstr ""
+
+#: kcms/launch/kcm_launchfeedback.desktop:14
+#: kcms/launch/package/metadata.desktop:2
+msgctxt "Name"
+msgid "Launch Feedback"
+msgstr ""
+
+#: kcms/launch/kcm_launchfeedback.desktop:101
+#: kcms/launch/package/metadata.desktop:89
+msgctxt "Comment"
+msgid "Application Launch Feedback"
+msgstr ""
+
+#: kcms/launch/kcm_launchfeedback.desktop:149
+msgctxt "X-KDE-Keywords"
+msgid ""
+"application,start,launch,busy,cursor,feedback,mouse,pointer,bouncing,"
+"rotating,spinning,disk,startup,program,report,taskbar"
+msgstr ""
+
+#: kcms/lookandfeel/kcm_lookandfeel.desktop:14
+#: kcms/lookandfeel/package/metadata.desktop:2
+#, fuzzy
+#| msgctxt "Name"
+#| msgid "Desktop"
+msgctxt "Name"
+msgid "Global Theme"
+msgstr "ডেস্কট'প"
+
+#: kcms/lookandfeel/kcm_lookandfeel.desktop:47
+#: kcms/lookandfeel/package/metadata.desktop:35
+msgctxt "Comment"
+msgid "Choose global look and feel"
+msgstr ""
+
+#: kcms/lookandfeel/kcm_lookandfeel.desktop:78
+msgctxt "X-KDE-Keywords"
+msgid "theme, look, feel"
+msgstr ""
+
+#: kcms/lookandfeel/lookandfeel.knsrc:2
+#, fuzzy
+#| msgctxt "Name"
+#| msgid "Desktop"
+msgctxt "Name"
+msgid "Global Themes"
+msgstr "ডেস্কট'প"
+
+#: kcms/mouse/mouse.desktop:156
+msgctxt "X-KDE-Keywords"
+msgid ""
+"Mouse,Mouse acceleration,Mouse threshold,Mouse buttons,Selection,Cursor "
+"Shape,Input Devices,Button Mapping,Click,icons,feedback,Pointers,Drag,"
+"mapping,right handed,left handed,Pointer Device,Mouse Wheel,Mouse Emulation,"
+"Mouse Navigation,Mouse Drag and Drop,Mouse Scrolling,Mouse Sensitivity,Move "
+"Mouse with Num Pad,Mouse Num Pad Emulation"
+msgstr ""
+
+#: kcms/nightcolor/kcm_nightcolor.desktop:16
+#: kcms/nightcolor/package/metadata.desktop:2
+msgctxt "Name"
+msgid "Night Color"
+msgstr ""
+
+#: kcms/nightcolor/kcm_nightcolor.desktop:55
+#: kcms/nightcolor/package/metadata.desktop:41
+msgctxt "Comment"
+msgid "Adjust color temperature at night to reduce eye strain"
+msgstr ""
+
+#: kcms/nightcolor/kcm_nightcolor.desktop:94
+msgctxt "X-KDE-Keywords"
+msgid "kwin,window,manager,night,colors,redshift,eyes"
+msgstr ""
+
+#: kcms/notifications/kcm_notifications.desktop:14
+#: kcms/notifications/package/metadata.desktop:2
+msgctxt "Name"
+msgid "Notifications"
+msgstr ""
+
+#: kcms/notifications/kcm_notifications.desktop:63
+#: kcms/notifications/package/metadata.desktop:51
+msgctxt "Comment"
+msgid "Event Notifications and Actions"
+msgstr ""
+
+#: kcms/qtquicksettings/qtquicksettings.desktop:14
+msgctxt "Name"
+msgid "Plasma Renderer"
+msgstr ""
+
+#: kcms/runners/kcm_plasmasearch.desktop:13
+msgctxt "Name"
+msgid "KRunner"
+msgstr ""
+
+#: kcms/runners/kcm_plasmasearch.desktop:46
+msgctxt "Comment"
+msgid "Configure Search Bar"
+msgstr ""
+
+#: kcms/runners/kcm_plasmasearch.desktop:85
+msgctxt "X-KDE-Keywords"
+msgid "Search, File, Baloo, Runner, krunner"
+msgstr ""
+
+#: kcms/solid_actions/device-actions/solid-device-Battery.desktop:2
+msgctxt "Name"
+msgid "Charge Percent"
+msgstr ""
+
+#: kcms/solid_actions/device-actions/solid-device-Battery.desktop:74
+msgctxt "Name"
+msgid "Charge State"
+msgstr ""
+
+#: kcms/solid_actions/device-actions/solid-device-Battery.desktop:145
+msgctxt "Name|battery plugged in"
+msgid "Plugged"
+msgstr ""
+
+#: kcms/solid_actions/device-actions/solid-device-Battery.desktop:198
+msgctxt "Name"
+msgid "Rechargeable"
+msgstr ""
+
+#: kcms/solid_actions/device-actions/solid-device-Battery.desktop:266
+msgctxt "Name"
+msgid "Type"
+msgstr ""
+
+#: kcms/solid_actions/device-actions/solid-device-Battery.desktop:341
+#: kcms/solid_actions/device-actions/solid-device-Block.desktop:210
+#: kcms/solid_actions/device-actions/solid-device-Camera.desktop:147
+#: kcms/solid_actions/device-actions/solid-device-OpticalDisc.desktop:868
+#: kcms/solid_actions/device-actions/solid-device-OpticalDrive.desktop:655
+#: kcms/solid_actions/device-actions/solid-device-PortableMediaPlayer.desktop:147
+#: kcms/solid_actions/device-actions/solid-device-Processor.desktop:285
+#: kcms/solid_actions/device-actions/solid-device-StorageAccess.desktop:146
+#: kcms/solid_actions/device-actions/solid-device-StorageDrive.desktop:364
+#: kcms/solid_actions/device-actions/solid-device-StorageVolume.desktop:437
+#, fuzzy
+#| msgctxt "Name"
+#| msgid "USB Devices"
+msgctxt "Name"
+msgid "Solid Device"
+msgstr "USB যন্ত্ৰ"
+
+#: kcms/solid_actions/device-actions/solid-device-Block.desktop:2
+#, fuzzy
+#| msgctxt "Name"
+#| msgid "Devices"
+msgctxt "Name"
+msgid "Device"
+msgstr "যন্ত্ৰ"
+
+#: kcms/solid_actions/device-actions/solid-device-Block.desktop:75
+#, fuzzy
+#| msgctxt "Name"
+#| msgid "Moria"
+msgctxt "Name"
+msgid "Major"
+msgstr "Moria"
+
+#: kcms/solid_actions/device-actions/solid-device-Block.desktop:142
+#, fuzzy
+#| msgctxt "Name"
+#| msgid "Moria"
+msgctxt "Name"
+msgid "Minor"
+msgstr "Moria"
+
+#: kcms/solid_actions/device-actions/solid-device-Camera.desktop:2
+#: kcms/solid_actions/device-actions/solid-device-PortableMediaPlayer.desktop:2
+msgctxt "Name"
+msgid "Supported Drivers"
+msgstr ""
+
+#: kcms/solid_actions/device-actions/solid-device-Camera.desktop:74
+#: kcms/solid_actions/device-actions/solid-device-PortableMediaPlayer.desktop:74
+#, fuzzy
+#| msgctxt "Name"
+#| msgid "Protocols"
+msgctxt "Name"
+msgid "Supported Protocols"
+msgstr "আচাৰ বিধি"
+
+#: kcms/solid_actions/device-actions/solid-device-OpticalDisc.desktop:2
+#, fuzzy
+#| msgctxt "Name"
+#| msgid "Appearance"
+msgctxt "Name"
+msgid "Appendable"
+msgstr "চেহেৰা"
+
+#: kcms/solid_actions/device-actions/solid-device-OpticalDisc.desktop:72
+msgctxt "Name"
+msgid "Available Content"
+msgstr ""
+
+#: kcms/solid_actions/device-actions/solid-device-OpticalDisc.desktop:145
+#, fuzzy
+#| msgctxt "Name"
+#| msgid "Plan"
+msgctxt "Name"
+msgid "Blank"
+msgstr "Plan"
+
+#: kcms/solid_actions/device-actions/solid-device-OpticalDisc.desktop:216
+#, fuzzy
+#| msgctxt "Name"
+#| msgid "Audacity"
+msgctxt "Name"
+msgid "Capacity"
+msgstr "Audacity"
+
+#: kcms/solid_actions/device-actions/solid-device-OpticalDisc.desktop:289
+msgctxt "Name"
+msgid "Disc Type"
+msgstr ""
+
+#: kcms/solid_actions/device-actions/solid-device-OpticalDisc.desktop:362
+#: kcms/solid_actions/device-actions/solid-device-StorageVolume.desktop:2
+msgctxt "Name"
+msgid "Fs Type"
+msgstr ""
+
+#: kcms/solid_actions/device-actions/solid-device-OpticalDisc.desktop:434
+#: kcms/solid_actions/device-actions/solid-device-StorageVolume.desktop:74
+#, fuzzy
+#| msgctxt "Name"
+#| msgid "Iagno"
+msgctxt "Name"
+msgid "Ignored"
+msgstr "Iagno"
+
+#: kcms/solid_actions/device-actions/solid-device-OpticalDisc.desktop:505
+#: kcms/solid_actions/device-actions/solid-device-StorageVolume.desktop:145
+msgctxt "Name"
+msgid "Label"
+msgstr ""
+
+#: kcms/solid_actions/device-actions/solid-device-OpticalDisc.desktop:577
+msgctxt "Name"
+msgid "Rewritable"
+msgstr ""
+
+#: kcms/solid_actions/device-actions/solid-device-OpticalDisc.desktop:648
+#: kcms/solid_actions/device-actions/solid-device-OpticalDrive.desktop:361
+#: kcms/solid_actions/device-actions/solid-device-StorageDrive.desktop:289
+#: kcms/solid_actions/device-actions/solid-device-StorageVolume.desktop:217
+#, fuzzy
+#| msgctxt "Name"
+#| msgid "Belize"
+msgctxt "Name"
+msgid "Size"
+msgstr "বেলিজে"
+
+#: kcms/solid_actions/device-actions/solid-device-OpticalDisc.desktop:722
+#: kcms/solid_actions/device-actions/solid-device-StorageVolume.desktop:291
+msgctxt "Name"
+msgid "Usage"
+msgstr ""
+
+#: kcms/solid_actions/device-actions/solid-device-OpticalDisc.desktop:795
+#: kcms/solid_actions/device-actions/solid-device-StorageVolume.desktop:364
+msgctxt "Name"
+msgid "Uuid"
+msgstr ""
+
+#: kcms/solid_actions/device-actions/solid-device-OpticalDrive.desktop:2
+#: kcms/solid_actions/device-actions/solid-device-StorageDrive.desktop:2
+#, fuzzy
+#| msgctxt "Name"
+#| msgid "Belarus"
+msgctxt "Name"
+msgid "Bus"
+msgstr "বেলাৰুস"
+
+#: kcms/solid_actions/device-actions/solid-device-OpticalDrive.desktop:76
+#: kcms/solid_actions/device-actions/solid-device-StorageDrive.desktop:76
+msgctxt "Name"
+msgid "Drive Type"
+msgstr ""
+
+#: kcms/solid_actions/device-actions/solid-device-OpticalDrive.desktop:149
+#: kcms/solid_actions/device-actions/solid-device-StorageDrive.desktop:149
+#, fuzzy
+#| msgctxt "Name"
+#| msgid "Portugal"
+msgctxt "Name"
+msgid "Hotpluggable"
+msgstr "পোৰ্টুগাল"
+
+#: kcms/solid_actions/device-actions/solid-device-OpticalDrive.desktop:216
+#, fuzzy
+#| msgctxt "GenericName"
+#| msgid "Spread Sheet"
+msgctxt "Name"
+msgid "Read Speed"
+msgstr "Spread Sheet"
+
+#: kcms/solid_actions/device-actions/solid-device-OpticalDrive.desktop:288
+#: kcms/solid_actions/device-actions/solid-device-StorageDrive.desktop:216
+msgctxt "Name"
+msgid "Removable"
+msgstr ""
+
+#: kcms/solid_actions/device-actions/solid-device-OpticalDrive.desktop:435
+msgctxt "Name"
+msgid "Supported Media"
+msgstr ""
+
+#: kcms/solid_actions/device-actions/solid-device-OpticalDrive.desktop:506
+msgctxt "Name"
+msgid "Write Speed"
+msgstr ""
+
+#: kcms/solid_actions/device-actions/solid-device-OpticalDrive.desktop:580
+msgctxt "Name"
+msgid "Write Speeds"
+msgstr ""
+
+#: kcms/solid_actions/device-actions/solid-device-Processor.desktop:2
+msgctxt "Name"
+msgid "Can Change Frequency"
+msgstr ""
+
+#: kcms/solid_actions/device-actions/solid-device-Processor.desktop:71
+msgctxt "Name"
+msgid "Instruction Sets"
+msgstr ""
+
+#: kcms/solid_actions/device-actions/solid-device-Processor.desktop:139
+msgctxt "Name"
+msgid "Max Speed"
+msgstr ""
+
+#: kcms/solid_actions/device-actions/solid-device-Processor.desktop:212
+#, fuzzy
+#| msgctxt "Name"
+#| msgid "Niue"
+msgctxt "Name"
+msgid "Number"
+msgstr "নিউ"
+
+#: kcms/solid_actions/device-actions/solid-device-StorageAccess.desktop:2
+#, fuzzy
+#| msgctxt "Name"
+#| msgid "Accessibility"
+msgctxt "Name"
+msgid "Accessible"
+msgstr "অভিগম্যতা"
+
+#: kcms/solid_actions/device-actions/solid-device-StorageAccess.desktop:73
+#, fuzzy
+#| msgctxt "Name"
+#| msgid "Find Part"
+msgctxt "Name"
+msgid "File Path"
+msgstr "বিভাজন বিচাৰক"
+
+#: kcms/solid_actions/solid-actions.desktop:13
+#, fuzzy
+#| msgctxt "Name"
+#| msgid "Devices"
+msgctxt "Name"
+msgid "Device Actions"
+msgstr "যন্ত্ৰ"
+
+#: kcms/solid_actions/solid-actions.desktop:84
+msgctxt "Comment"
+msgid "Manage actions available to the user when connecting new devices"
+msgstr ""
+
+#: kcms/solid_actions/solid-actions.desktop:137
+#, fuzzy
+#| msgctxt "Name"
+#| msgid "Devices"
+msgctxt "X-KDE-Keywords"
+msgid "Solid Devices Actions"
+msgstr "যন্ত্ৰ"
+
+#: kcms/solid_actions/solid-device-type.desktop:4
+#, fuzzy
+#| msgctxt "Name"
+#| msgid "Devices"
+msgctxt "Name"
+msgid "Solid Device Type"
+msgstr "যন্ত্ৰ"
+
+#: kcms/spellchecking/spellchecking.desktop:14
+#, fuzzy
+#| msgctxt "Name"
+#| msgid "Spell Checker"
+msgctxt "Name"
+msgid "Spell Check"
+msgstr "বানান পৰীক্ষণব্যৱস্থা"
+
+#: kcms/spellchecking/spellchecking.desktop:64
+msgctxt "Comment"
+msgid "Spell Checker Dictionaries and Options"
+msgstr ""
+
+#: kcms/spellchecking/spellchecking.desktop:110
+msgctxt "X-KDE-Keywords"
+msgid "Spell"
+msgstr ""
+
+#: kcms/standard_actions/standard_actions.desktop:15
+msgctxt "Name"
+msgid "Standard Shortcuts"
+msgstr ""
+
+#: kcms/standard_actions/standard_actions.desktop:58
+msgctxt "Comment"
+msgid "Standard Keyboard Shortcuts for Applications"
+msgstr ""
+
+#: kcms/standard_actions/standard_actions.desktop:104
+msgctxt "X-KDE-Keywords"
+msgid ""
+"Keys,Global key bindings,Key scheme,Key bindings,shortcuts,application "
+"shortcuts"
+msgstr ""
+
+#: kcms/style/gtk2_themes.knsrc:2
+msgctxt "Name"
+msgid "GTK 2.x Themes"
+msgstr ""
+
+#: kcms/style/gtk3_themes.knsrc:2
+msgctxt "Name"
+msgid "GTK 3.x Themes"
+msgstr ""
+
+#: kcms/style/kcm_style.desktop:16 kcms/style/package/metadata.desktop:2
+#, fuzzy
+#| msgctxt "Name"
+#| msgid "Desktop"
+msgctxt "Name"
+msgid "Application Style"
+msgstr "ডেস্কট'প"
+
+#: kcms/style/kcm_style.desktop:50 kcms/style/package/metadata.desktop:36
+msgctxt "Comment"
+msgid "Configure application style and behavior"
+msgstr ""
+
+#: kcms/style/kcm_style.desktop:83
+msgctxt "X-KDE-Keywords"
+msgid ""
+"style,styles,look,widget,icons,toolbars,text,highlight,apps,KDE applications,"
+"theme,plasma,menu,global menu"
+msgstr ""
+
+#: kcms/touchpad/src/applet/dataengine.desktop:2
+msgctxt "Name"
+msgid "Touchpad DataEngine"
+msgstr ""
+
+#: kcms/touchpad/src/applet/qml/metadata.desktop:2
+msgctxt "Comment"
+msgid "Shows current touchpad state"
+msgstr ""
+
+#: kcms/touchpad/src/applet/qml/metadata.desktop:46
+msgctxt "Keywords"
+msgid "Touchpad"
+msgstr ""
+
+#: kcms/touchpad/src/applet/qml/metadata.desktop:89
+#: kcms/touchpad/src/kcm/kcm_touchpad.desktop:16
+#: kcms/touchpad/src/kded/kcm_touchpad.notifyrc:2
+#: kcms/touchpad/src/kded/kded_touchpad.desktop:9
+msgctxt "Name"
+msgid "Touchpad"
+msgstr ""
+
+#: kcms/touchpad/src/kcm/kcm_touchpad.desktop:60
+msgctxt "Comment"
+msgid "Touchpad settings"
+msgstr ""
+
+#: kcms/touchpad/src/kcm/kcm_touchpad.desktop:103
+msgctxt "X-KDE-Keywords"
+msgid "Touchpad,Synaptics"
+msgstr ""
+
+#: kcms/touchpad/src/kded/kcm_touchpad.notifyrc:47
+msgctxt "Comment"
+msgid "Touchpad"
+msgstr ""
+
+#: kcms/touchpad/src/kded/kcm_touchpad.notifyrc:93
+msgctxt "Name"
+msgid "Touchpad was disabled"
+msgstr ""
+
+#: kcms/touchpad/src/kded/kcm_touchpad.notifyrc:135
+msgctxt "Comment"
+msgid "Touchpad was disabled because mouse is detected"
+msgstr ""
+
+#: kcms/touchpad/src/kded/kcm_touchpad.notifyrc:181
+msgctxt "Name"
+msgid "Touchpad was enabled"
+msgstr ""
+
+#: kcms/touchpad/src/kded/kcm_touchpad.notifyrc:223
+msgctxt "Comment"
+msgid "Touchpad was enabled because the mouse was unplugged"
+msgstr ""
+
+#: kcms/touchpad/src/kded/kded_touchpad.desktop:53
+msgctxt "Comment"
+msgid "Enables or disables touchpad"
+msgstr ""
+
+#: kcms/workspaceoptions/kcm_workspace.desktop:11
+#: kcms/workspaceoptions/package/metadata.desktop:2
+msgctxt "Name"
+msgid "General Behavior"
+msgstr ""
+
+#: kcms/workspaceoptions/kcm_workspace.desktop:44
+#: kcms/workspaceoptions/package/metadata.desktop:35
+msgctxt "Comment"
+msgid "Configure general workspace behavior"
+msgstr ""
+
+#: kcms/workspaceoptions/kcm_workspace.desktop:76
+msgctxt "X-KDE-Keywords"
+msgid ""
+"plasma,workspace,shell,formfactor,dashboard,tooltips,informational tips,"
+"tooltips,click,single click,double click,animation speed"
+msgstr ""
+
+#: knetattach/org.kde.knetattach.desktop:2
+msgctxt "Name"
+msgid "KNetAttach"
+msgstr ""
+
+#: knetattach/org.kde.knetattach.desktop:90
+msgctxt "GenericName"
+msgid "Network Folder Wizard"
+msgstr ""
+
+#: layout-templates/org.kde.plasma.desktop.appmenubar/metadata.desktop:2
+msgctxt "Name"
+msgid "Application Menu Bar"
+msgstr ""
+
+#: layout-templates/org.kde.plasma.desktop.appmenubar/metadata.desktop:42
+msgctxt "Comment"
+msgid "Panel containing the global menu applet"
+msgstr ""
+
+#: layout-templates/org.kde.plasma.desktop.defaultPanel/metadata.desktop:2
+msgctxt "Name"
+msgid "Default Panel"
+msgstr ""
+
+#: layout-templates/org.kde.plasma.desktop.defaultPanel/metadata.desktop:50
+msgctxt "Comment"
+msgid ""
+"Default panel featuring application launcher, task manager and system tray"
+msgstr ""
+
+#: layout-templates/org.kde.plasma.desktop.emptyPanel/metadata.desktop:55
+msgctxt "Comment"
+msgid "Empty panel"
+msgstr ""
+
+#: runners/kwin/plasma-runner-kwin.desktop:2
+msgctxt "Name"
+msgid "KWin"
+msgstr ""
+
+#: runners/kwin/plasma-runner-kwin.desktop:42
+msgctxt "Comment"
+msgid "Interact with the Plasma Compositor"
+msgstr ""
+
+#: runners/plasma-desktop/plasma-runner-plasma-desktop.desktop:2
+msgctxt "Name"
+msgid "Plasma Desktop Shell"
+msgstr ""
+
+#: runners/plasma-desktop/plasma-runner-plasma-desktop.desktop:67
+msgctxt "Comment"
+msgid "Interact with the Plasma desktop shell"
+msgstr ""
+
+#: solid-device-automounter/kcm/device_automounter_kcm.desktop:9
+msgctxt "X-KDE-Keywords"
+msgid "Mount,Removable,Devices,Automatic"
+msgstr ""
+
+#: solid-device-automounter/kcm/device_automounter_kcm.desktop:49
+#, fuzzy
+#| msgctxt "Name"
+#| msgid "USB Devices"
+msgctxt "Name"
+msgid "Removable Devices"
+msgstr "USB যন্ত্ৰ"
+
+#: solid-device-automounter/kcm/device_automounter_kcm.desktop:92
+msgctxt "Comment"
+msgid "Configure automatic handling of removable storage media"
+msgstr ""
+
+#: solid-device-automounter/kded/device_automounter.desktop:10
+msgctxt "Name"
+msgid "Removable Device Automounter"
+msgstr ""
+
+#: solid-device-automounter/kded/device_automounter.desktop:50
+msgctxt "Comment"
+msgid "Automatically mounts devices as needed"
+msgstr ""
+
+#: toolboxes/desktoptoolbox/metadata.desktop:2
+#, fuzzy
+#| msgctxt "GenericName"
+#| msgid "Network Tool"
+msgctxt "Name"
+msgid "Declarative Toolbox"
+msgstr "নে'টৱৰ্ক সৰঞ্জাম"
+
+#: toolboxes/desktoptoolbox/metadata.desktop:47
+#, fuzzy
+#| msgctxt "Name"
+#| msgid "Panama"
+msgctxt "Comment"
+msgid "Manage Plasma"
+msgstr "পানামা"
+
+#: toolboxes/paneltoolbox/metadata.desktop:2
+#, fuzzy
+#| msgctxt "GenericName"
+#| msgid "Network Tool"
+msgctxt "Name"
+msgid "Panel Toolbox"
+msgstr "নে'টৱৰ্ক সৰঞ্জাম"
+
+#: toolboxes/paneltoolbox/metadata.desktop:52
+msgctxt "Comment"
+msgid "Manage Plasma panel"
+msgstr ""
+
+#: toolboxes/plasma-toolbox-paneltoolbox.desktop:2
+#, fuzzy
+#| msgctxt "Name"
+#| msgid "Desktop"
+msgctxt "Comment"
+msgid "Default panel toolbox for the Plasma desktop shell"
+msgstr "ডেস্কট'প"
+
+#: toolboxes/plasma-toolbox-paneltoolbox.desktop:61
+#, fuzzy
+#| msgctxt "GenericName"
+#| msgid "Network Tool"
+msgctxt "Name"
+msgid "Panel toolbox"
+msgstr "নে'টৱৰ্ক সৰঞ্জাম"
+
+#, fuzzy
+#~| msgctxt "Comment"
+#~| msgid "Configure web cache settings"
+#~ msgctxt "Name"
+#~ msgid "Audio and Video"
+#~ msgstr "ৱেব কেছেৰ পছন্ধ বিন্যাস কৰক"
+
+#, fuzzy
+#~| msgctxt "Comment"
+#~| msgid "Configure web cache settings"
+#~ msgctxt "Comment"
+#~ msgid "Phonon Audio and Video"
+#~ msgstr "ৱেব কেছেৰ পছন্ধ বিন্যাস কৰক"
+
+#, fuzzy
+#~| msgctxt "Name"
+#~| msgid "Emoticons"
+#~ msgctxt "Comment"
+#~ msgid "Emoticon Theme"
+#~ msgstr "ভাব-প্ৰতীক"
+
+#, fuzzy
+#~| msgctxt "Name"
+#~| msgid "Desktop"
+#~ msgctxt "Name"
+#~ msgid "Cursor Theme"
+#~ msgstr "ডেস্কট'প"
+
+#, fuzzy
+#~| msgctxt "Name"
+#~| msgid "Desktop"
+#~ msgctxt "Name"
+#~ msgid "Desktop Theme"
+#~ msgstr "ডেস্কট'প"
+
+#, fuzzy
+#~| msgctxt "Name"
+#~| msgid "Desktop"
+#~ msgctxt "Comment"
+#~ msgid "Desktop Theme"
+#~ msgstr "ডেস্কট'প"
+
+#, fuzzy
+#~| msgctxt "GenericName"
+#~| msgid "Calendar Manager"
+#~ msgctxt "Name"
+#~ msgid "Menubar manager"
+#~ msgstr "বৰ্ষপঞ্জিকাৰ পৰিচালক"
+
+#, fuzzy
+#~| msgctxt "GenericName"
+#~| msgid "File Manager"
+#~ msgctxt "Name|standard desktop component"
+#~ msgid "Window Manager"
+#~ msgstr "নথিপত্ৰৰ পৰিচালক"
+
+#~ msgctxt "Name"
+#~ msgid "Compiz"
+#~ msgstr "Compiz"
+
+#~ msgctxt "Name"
+#~ msgid "Metacity (GNOME)"
+#~ msgstr "Metacity (GNOME)"
+
+#~ msgctxt "Name"
+#~ msgid "Openbox"
+#~ msgstr "Openbox"
+
+#~ msgctxt "Name"
+#~ msgid "Paths"
+#~ msgstr "পথ"
+
+#, fuzzy
+#~| msgctxt "GenericName"
+#~| msgid "Strategy Game"
+#~ msgctxt "Name"
+#~ msgid "State Value"
+#~ msgstr "Strategy Game"
+
+#~ msgctxt "Comment"
+#~ msgid "Change the location important files are stored"
+#~ msgstr "গুৰুত্বপূৰ্ণ নথিপত্ৰ সংৰক্ষণ কৰাৰ স্থান সলনি কৰক"
+
+#, fuzzy
+#~| msgctxt "GenericName"
+#~| msgid "Calendar Manager"
+#~ msgctxt "Name"
+#~ msgid "Service Manager"
+#~ msgstr "বৰ্ষপঞ্জিকাৰ পৰিচালক"
+
+#, fuzzy
+#~| msgctxt "Name"
+#~| msgid "File Management"
+#~ msgctxt "Name"
+#~ msgid "Session Management"
+#~ msgstr "নথিপত্ৰৰ পৰিচালনা"
+
+#, fuzzy
+#~| msgctxt "Comment"
+#~| msgid "Configure web cache settings"
+#~ msgctxt "Comment"
+#~ msgid "Configure the session manager and logout settings"
+#~ msgstr "ৱেব কেছেৰ পছন্ধ বিন্যাস কৰক"

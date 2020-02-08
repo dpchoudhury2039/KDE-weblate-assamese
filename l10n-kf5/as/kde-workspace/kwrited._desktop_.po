@@ -1,0 +1,40 @@
+# Amitakhya Phukan <অমিতাক্ষ ফুকন>, 2009.
+msgid ""
+msgstr ""
+"Project-Id-Version: desktop files\n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2019-09-28 01:31+0000\n"
+"PO-Revision-Date: 2009-01-12 16:16+0530\n"
+"Last-Translator: Amitakhya Phukan <অমিতাক্ষ ফুকন>\n"
+"Language-Team: Assamese <fedora-trans-as@redhat.com>\n"
+"Language: as\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Lokalize 0.2\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+
+#: kwrited-autostart.desktop:2
+msgctxt "Name"
+msgid "KDE Write Daemon"
+msgstr ""
+
+#: kwrited-autostart.desktop:91
+msgctxt "Comment"
+msgid "Watch for messages from local users sent with write(1) or wall(1)"
+msgstr ""
+
+#: kwrited.notifyrc:3
+msgctxt "Comment"
+msgid "Local system message service"
+msgstr ""
+
+#: kwrited.notifyrc:68
+msgctxt "Name"
+msgid "New message received"
+msgstr ""
+
+#: kwrited.notifyrc:140
+msgctxt "Comment"
+msgid "The daemon received a new message sent with wall(1) or write(1)"
+msgstr ""

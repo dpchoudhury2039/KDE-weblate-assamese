@@ -1,0 +1,403 @@
+# Amitakhya Phukan <অমিতাক্ষ ফুকন>, 2009.
+msgid ""
+msgstr ""
+"Project-Id-Version: desktop files\n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2020-02-05 02:53+0000\n"
+"PO-Revision-Date: 2009-01-12 16:16+0530\n"
+"Last-Translator: Amitakhya Phukan <অমিতাক্ষ ফুকন>\n"
+"Language-Team: Assamese <fedora-trans-as@redhat.com>\n"
+"Language: as\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Lokalize 0.2\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+
+#: Categories/basicinformation.desktop:7
+#, fuzzy
+#| msgctxt "Name"
+#| msgid "Processor Information"
+msgctxt "Name"
+msgid "Basic Information"
+msgstr "সংসাধকৰ তথ্য"
+
+#: Categories/detailedinformation.desktop:7
+#, fuzzy
+#| msgctxt "Comment"
+#| msgid "PCI information"
+msgctxt "Name"
+msgid "Detailed Information"
+msgstr "PCI ৰ তথ্য"
+
+#: Categories/deviceinfocategory.desktop:8
+#, fuzzy
+#| msgctxt "Name"
+#| msgid "USB Devices"
+msgctxt "Name"
+msgid "Devices"
+msgstr "USB যন্ত্ৰ"
+
+#: Categories/graphicalinfocategory.desktop:8
+msgctxt "Name"
+msgid "Graphics"
+msgstr ""
+
+#: Categories/kinfocentercategory.desktop:4
+#, fuzzy
+#| msgctxt "Name"
+#| msgid "KInfoCenter"
+msgctxt "Name"
+msgid "KInfoCenter Category"
+msgstr "KInfoCenter"
+
+#: Categories/lostfoundcategory.desktop:7
+#, fuzzy
+#| msgctxt "Name"
+#| msgid "Lost & Found"
+msgctxt "Name"
+msgid "Lost And Found"
+msgstr "হেৰুৱা & পোৱা"
+
+#: Categories/networkinfocategory.desktop:8
+msgctxt "Name"
+msgid "Network"
+msgstr ""
+
+#: kcontrol/menus/kinfocenter.directory:3
+#, fuzzy
+#| msgctxt "Comment"
+#| msgid "PCI information"
+msgctxt "Name"
+msgid "Information"
+msgstr "PCI ৰ তথ্য"
+
+#: Modules/about-distro/src/about-distro.desktop:13
+msgctxt "X-KDE-Keywords"
+msgid "about,info,information,distribution,distro,system,kernel,qt,kde"
+msgstr ""
+
+#: Modules/about-distro/src/about-distro.desktop:46
+#, fuzzy
+#| msgctxt "Comment"
+#| msgid "PCI information"
+msgctxt "Name"
+msgid "System Information"
+msgstr "PCI ৰ তথ্য"
+
+#: Modules/about-distro/src/about-distro.desktop:77
+#, fuzzy
+#| msgctxt "Comment"
+#| msgid "Information about available protocols"
+msgctxt "Comment"
+msgid "Information About This System"
+msgstr "উপলব্ধ আচাৰ বিধিৰ বিষয়ে তথ্য"
+
+#: Modules/devinfo/devinfo.desktop:13
+#, fuzzy
+#| msgctxt "GenericName"
+#| msgid "Picture Viewer"
+msgctxt "Name"
+msgid "Device Viewer"
+msgstr "ছবি প্ৰদৰ্শক"
+
+#: Modules/devinfo/devinfo.desktop:76
+#, fuzzy
+#| msgctxt "GenericName"
+#| msgid "Picture Viewer"
+msgctxt "Comment"
+msgid "Device Viewer"
+msgstr "ছবি প্ৰদৰ্শক"
+
+#: Modules/devinfo/devinfo.desktop:139
+msgctxt "X-KDE-Keywords"
+msgid "device,devices,disk,drive,processor,cpu"
+msgstr ""
+
+#: Modules/energy/kcm_energyinfo.desktop:10
+msgctxt "Name"
+msgid "Energy"
+msgstr ""
+
+#: Modules/energy/kcm_energyinfo.desktop:27
+msgctxt "Comment"
+msgid "Energy Consumption Statistics"
+msgstr ""
+
+#: Modules/energy/kcm_energyinfo.desktop:70
+msgctxt "X-KDE-Keywords"
+msgid "Battery,Energy,Statistics,History,Power"
+msgstr ""
+
+#: Modules/energy/package/metadata.desktop:2
+#, fuzzy
+#| msgctxt "Comment"
+#| msgid "Memory information"
+msgctxt "Name"
+msgid "Energy Information"
+msgstr "স্মৃতিশক্তিৰ তথ্য"
+
+#: Modules/energy/package/metadata.desktop:44
+msgctxt "Comment"
+msgid "Statistics about energy consumption"
+msgstr ""
+
+#: Modules/fileindexermonitor/kcm_fileindexermonitor.desktop:10
+#: Modules/fileindexermonitor/package/metadata.desktop:2
+msgctxt "Name"
+msgid "File Indexer Monitor"
+msgstr ""
+
+#: Modules/fileindexermonitor/kcm_fileindexermonitor.desktop:50
+msgctxt "Comment"
+msgid "Monitor State of File Indexer"
+msgstr ""
+
+#: Modules/fileindexermonitor/kcm_fileindexermonitor.desktop:90
+msgctxt "X-KDE-Keywords"
+msgid "Baloo,File,Index,Monitor"
+msgstr ""
+
+#: Modules/fileindexermonitor/package/metadata.desktop:41
+msgctxt "Comment"
+msgid "File Index Monitor"
+msgstr ""
+
+#: Modules/info/dma.desktop:14
+msgctxt "Name"
+msgid "DMA-Channels"
+msgstr "DMA-Channels"
+
+#: Modules/info/dma.desktop:105
+msgctxt "Comment"
+msgid "DMA information"
+msgstr "DMA তথ্য"
+
+#: Modules/info/dma.desktop:197
+msgctxt "X-KDE-Keywords"
+msgid "dma,DMA-Channels,System Information"
+msgstr ""
+
+#: Modules/info/interrupts.desktop:14
+msgctxt "Name"
+msgid "Interrupts"
+msgstr "Interrupts"
+
+#: Modules/info/interrupts.desktop:105
+msgctxt "Comment"
+msgid "Interrupt information"
+msgstr "Interrupt তথ্য"
+
+#: Modules/info/interrupts.desktop:196
+#, fuzzy
+#| msgctxt "Comment"
+#| msgid "Interrupt information"
+msgctxt "X-KDE-Keywords"
+msgid "Interrupts,IRQ,System Information"
+msgstr "Interrupt তথ্য"
+
+#: Modules/info/ioports.desktop:14
+msgctxt "Name"
+msgid "IO-Ports"
+msgstr "IO-Ports"
+
+#: Modules/info/ioports.desktop:105
+msgctxt "Comment"
+msgid "IO-port information"
+msgstr "IO-port তথ্য"
+
+#: Modules/info/ioports.desktop:197
+msgctxt "X-KDE-Keywords"
+msgid "IO,I/O,IO-Ports,I/O-Ports,Ports,IO-Range,I/O-Range,System Information"
+msgstr ""
+
+#: Modules/info/wayland.desktop:12
+#, fuzzy
+#| msgctxt "Name"
+#| msgid "Thailand"
+msgctxt "Name"
+msgid "Wayland"
+msgstr "থাইলেন্ড"
+
+#: Modules/info/wayland.desktop:58
+#, fuzzy
+#| msgctxt "Comment"
+#| msgid "Information about available protocols"
+msgctxt "Comment"
+msgid "Information about the Wayland Compositor"
+msgstr "উপলব্ধ আচাৰ বিধিৰ বিষয়ে তথ্য"
+
+#: Modules/info/wayland.desktop:104
+msgctxt "X-KDE-Keywords"
+msgid "Wayland,Compositor,Display,System Information"
+msgstr ""
+
+#: Modules/info/xserver.desktop:13
+msgctxt "Name"
+msgid "X-Server"
+msgstr "X-Server"
+
+#: Modules/info/xserver.desktop:105
+msgctxt "Comment"
+msgid "X-Server information"
+msgstr "X-Server ৰ তথ্য"
+
+#: Modules/info/xserver.desktop:196
+msgctxt "X-KDE-Keywords"
+msgid "X,X-Server,XServer,XFree86,Display,VideoCard,System Information"
+msgstr ""
+
+#: Modules/memory/kcm_memory.desktop:13
+msgctxt "Name"
+msgid "Memory"
+msgstr "স্মৃতিশক্তি"
+
+#: Modules/memory/kcm_memory.desktop:106
+msgctxt "Comment"
+msgid "Memory information"
+msgstr "স্মৃতিশক্তিৰ তথ্য"
+
+#: Modules/memory/kcm_memory.desktop:197
+msgctxt "X-KDE-Keywords"
+msgid ""
+"Memory,RAM,Virtual memory,Physical memory,Shared memory,Swap,System "
+"Information"
+msgstr ""
+
+#: Modules/nics/nic.desktop:12
+msgctxt "Name"
+msgid "Network Interfaces"
+msgstr "নে'টৱৰ্ক সংযোগমাধ্যম"
+
+#: Modules/nics/nic.desktop:104
+msgctxt "Comment"
+msgid "Network interface information"
+msgstr "নে'টৱৰ্ক সংযোগমাধ্যমৰ তথ্য"
+
+#: Modules/opengl/opengl.desktop:12
+msgctxt "Name"
+msgid "OpenGL"
+msgstr "OpenGL"
+
+#: Modules/opengl/opengl.desktop:102
+msgctxt "Comment"
+msgid "OpenGL information"
+msgstr "OpenGL ৰ তথ্য"
+
+#: Modules/opengl/opengl.desktop:193
+msgctxt "X-KDE-Keywords"
+msgid ""
+"OpenGL,DRI,GLX,3D,VideoCard,Hardware Acceleration,Graphics,X,X11,Xserver,X-"
+"Server,XFree86,Display"
+msgstr ""
+
+#: Modules/pci/kcm_pci.desktop:12
+msgctxt "Name"
+msgid "PCI"
+msgstr "PCI"
+
+#: Modules/pci/kcm_pci.desktop:104
+msgctxt "Comment"
+msgid "PCI information"
+msgstr "PCI ৰ তথ্য"
+
+#: Modules/pci/kcm_pci.desktop:196
+msgctxt "X-KDE-Keywords"
+msgid "PCI,PCI-Devices,PCI-Bus,System Information"
+msgstr ""
+
+#: Modules/samba/smbstatus.desktop:12
+msgctxt "Name"
+msgid "Samba Status"
+msgstr "Samba ৰ অৱস্থা"
+
+#: Modules/samba/smbstatus.desktop:104
+msgctxt "Comment"
+msgid "Samba status monitor"
+msgstr "Samba ৰ অৱস্থাৰ নিৰীক্ষণ"
+
+#: Modules/samba/smbstatus.desktop:195
+msgctxt "X-KDE-Keywords"
+msgid "SMB,SAMBA,Windows network,LAN,System Information"
+msgstr ""
+
+#: Modules/usbview/kcmusb.desktop:12
+msgctxt "Name"
+msgid "USB Devices"
+msgstr "USB যন্ত্ৰ"
+
+#: Modules/usbview/kcmusb.desktop:104
+msgctxt "Comment"
+msgid "USB devices attached to this computer"
+msgstr "এই কম্পিউটাৰৰ সৈতে সংযুক্ত USB যন্ত্ৰ"
+
+#: Modules/usbview/kcmusb.desktop:186
+msgctxt "X-KDE-Keywords"
+msgid "USB,devices,viewer,control"
+msgstr ""
+
+#: Modules/view1394/kcmview1394.desktop:12
+msgctxt "Name"
+msgid "IEEE 1394 Devices"
+msgstr "IEEE 1394 যন্ত্ৰ"
+
+#: Modules/view1394/kcmview1394.desktop:103
+msgctxt "Comment"
+msgid "Attached IEEE 1394 devices"
+msgstr "সংযুক্ত IEEE 1394 যন্ত্ৰ"
+
+#: Modules/view1394/kcmview1394.desktop:187
+msgctxt "X-KDE-Keywords"
+msgid "1394,Firewire,devices,viewer,control"
+msgstr ""
+
+#: org.kde.kinfocenter.desktop:9
+#, fuzzy
+#| msgctxt "GenericName"
+#| msgid "Info Center"
+msgctxt "Name"
+msgid "Info Center"
+msgstr "তথ্য কেন্দ্ৰ"
+
+#: org.kde.kinfocenter.desktop:50
+msgctxt "GenericName"
+msgid "Info Center"
+msgstr "তথ্য কেন্দ্ৰ"
+
+#: org.kde.kinfocenter.desktop:140
+msgctxt "Comment"
+msgid "Centralized and convenient overview of system information"
+msgstr ""
+
+#, fuzzy
+#~| msgctxt "Comment"
+#~| msgid "Memory information"
+#~ msgctxt "Name"
+#~ msgid "Network Information"
+#~ msgstr "স্মৃতিশক্তিৰ তথ্য"
+
+#~ msgctxt "Name"
+#~ msgid "SCSI"
+#~ msgstr "SCSI"
+
+#~ msgctxt "Comment"
+#~ msgid "SCSI information"
+#~ msgstr "SCSI তথ্য"
+
+#, fuzzy
+#~| msgctxt "Comment"
+#~| msgid "SCSI information"
+#~ msgctxt "X-KDE-Keywords"
+#~ msgid "SCSI,SCSI-Bus,System Information"
+#~ msgstr "SCSI তথ্য"
+
+#~ msgctxt "Name"
+#~ msgid "KInfoCenter"
+#~ msgstr "KInfoCenter"
+
+#, fuzzy
+#~| msgctxt "Name"
+#~| msgid "Information"
+#~ msgctxt "Comment"
+#~ msgid "Hardware Information Summary"
+#~ msgstr "তথ্য"

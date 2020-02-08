@@ -1,0 +1,688 @@
+# Amitakhya Phukan <অমিতাক্ষ ফুকন>, 2009.
+msgid ""
+msgstr ""
+"Project-Id-Version: desktop files\n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2019-05-20 01:32+0000\n"
+"PO-Revision-Date: 2009-01-12 16:16+0530\n"
+"Last-Translator: Amitakhya Phukan <অমিতাক্ষ ফুকন>\n"
+"Language-Team: Assamese <fedora-trans-as@redhat.com>\n"
+"Language: as\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Lokalize 0.2\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+
+#: src/runtime/kglobalaccel.desktop:10
+msgctxt "Name"
+msgid "KDED Global Shortcuts Server"
+msgstr ""
+
+#, fuzzy
+#~| msgctxt "Name"
+#~| msgid "Science"
+#~ msgctxt "Name"
+#~ msgid "Battery and Brightness"
+#~ msgstr "বিজ্ঞান"
+
+#, fuzzy
+#~| msgctxt "Name"
+#~| msgid "File Management"
+#~ msgctxt "Keywords"
+#~ msgid "Power Management;Battery;System;Energy;"
+#~ msgstr "নথিপত্ৰৰ পৰিচালনা"
+
+#, fuzzy
+#~| msgctxt "GenericName"
+#~| msgid "File Manager"
+#~ msgctxt "Name"
+#~ msgid "Open with File Manager"
+#~ msgstr "নথিপত্ৰৰ পৰিচালক"
+
+#~ msgctxt "Name"
+#~ msgid "Icon"
+#~ msgstr "আইকন"
+
+#, fuzzy
+#~| msgctxt "GenericName"
+#~| msgid "Multimedia Player"
+#~ msgctxt "Name"
+#~ msgid "Media Player"
+#~ msgstr "Multimedia Player"
+
+#, fuzzy
+#~| msgctxt "GenericName"
+#~| msgid "Multimedia Player"
+#~ msgctxt "Comment"
+#~ msgid "Media Player Controls"
+#~ msgstr "Multimedia Player"
+
+#, fuzzy
+#~| msgctxt "GenericName"
+#~| msgid "System Monitor"
+#~ msgctxt "Name"
+#~ msgid "CPU Monitor"
+#~ msgstr "ব্যৱস্থাপ্ৰণালীৰ নিৰীক্ষণ ব্যৱস্থা"
+
+#, fuzzy
+#~| msgctxt "Name"
+#~| msgid "File Management"
+#~ msgctxt "Name"
+#~ msgid "Hard Disk I/O Monitor"
+#~ msgstr "নথিপত্ৰৰ পৰিচালনা"
+
+#, fuzzy
+#~| msgctxt "GenericName"
+#~| msgid "Network Tool"
+#~ msgctxt "Name"
+#~ msgid "Network Monitor"
+#~ msgstr "নে'টৱৰ্ক সৰঞ্জাম"
+
+#, fuzzy
+#~| msgctxt "Name"
+#~| msgid "Samba Status"
+#~ msgctxt "Name"
+#~ msgid "Memory Status"
+#~ msgstr "Samba ৰ অৱস্থা"
+
+#, fuzzy
+#~| msgctxt "Comment"
+#~| msgid "Partition information"
+#~ msgctxt "Name"
+#~ msgid "Application menus daemon"
+#~ msgstr "বিভাজনৰ তথ্য"
+
+#, fuzzy
+#~| msgctxt "Name"
+#~| msgid "Applications"
+#~ msgctxt "Comment"
+#~ msgid "Simple application launcher"
+#~ msgstr "অনুপ্ৰয়োগ"
+
+#, fuzzy
+#~| msgctxt "Name"
+#~| msgid "Pose"
+#~ msgctxt "Name"
+#~ msgid "Paste"
+#~ msgstr "Pose"
+
+#, fuzzy
+#~| msgctxt "Name"
+#~| msgid "Desktop"
+#~ msgctxt "Name"
+#~ msgid "Switch Desktop"
+#~ msgstr "ডেস্কট'প"
+
+#, fuzzy
+#~| msgctxt "Name"
+#~| msgid "MS Windows 9x"
+#~ msgctxt "Name"
+#~ msgid "Switch Window"
+#~ msgstr "MS Windows 9x"
+
+#, fuzzy
+#~| msgctxt "GenericName"
+#~| msgid "Contact Manager"
+#~ msgctxt "Name"
+#~ msgid "Activities Engine"
+#~ msgstr "পৰিচয়ৰ পৰিচালক"
+
+#, fuzzy
+#~| msgctxt "Comment"
+#~| msgid "Information about available protocols"
+#~ msgctxt "Comment"
+#~ msgid "Information on Plasma Activities"
+#~ msgstr "উপলব্ধ আচাৰ বিধিৰ বিষয়ে তথ্য"
+
+#, fuzzy
+#~| msgctxt "GenericName"
+#~| msgid "Calendar Manager"
+#~ msgctxt "Comment"
+#~ msgid "Akonadi PIM data engine"
+#~ msgstr "বৰ্ষপঞ্জিকাৰ পৰিচালক"
+
+#, fuzzy
+#~| msgctxt "Comment"
+#~| msgid "Partition information"
+#~ msgctxt "Name"
+#~ msgid "Application Information"
+#~ msgstr "বিভাজনৰ তথ্য"
+
+#, fuzzy
+#~| msgctxt "GenericName"
+#~| msgid "Calendar Manager"
+#~ msgctxt "Comment"
+#~ msgid "Calendar data engine"
+#~ msgstr "বৰ্ষপঞ্জিকাৰ পৰিচালক"
+
+#, fuzzy
+#~| msgctxt "Name"
+#~| msgid "Devices"
+#~ msgctxt "Name"
+#~ msgid "Device Notifications"
+#~ msgstr "যন্ত্ৰ"
+
+#~ msgctxt "Name"
+#~ msgid "Dictionary"
+#~ msgstr "অভিধান"
+
+#, fuzzy
+#~| msgctxt "Comment"
+#~| msgid "Information about available protocols"
+#~ msgctxt "Comment"
+#~ msgid "Information about files and directories."
+#~ msgstr "উপলব্ধ আচাৰ বিধিৰ বিষয়ে তথ্য"
+
+#, fuzzy
+#~| msgctxt "Name"
+#~| msgid "Application"
+#~ msgctxt "Name"
+#~ msgid "Geolocation"
+#~ msgstr "অনুপ্ৰয়োগ"
+
+#~ msgctxt "Comment"
+#~ msgid "Network interface information"
+#~ msgstr "নে'টৱৰ্ক সংযোগমাধ্যমৰ তথ্য"
+
+#, fuzzy
+#~| msgctxt "Name"
+#~| msgid "File Management"
+#~ msgctxt "Name|plasma data engine"
+#~ msgid "Power Management"
+#~ msgstr "নথিপত্ৰৰ পৰিচালনা"
+
+#, fuzzy
+#~| msgctxt "Name"
+#~| msgid "Services"
+#~ msgctxt "Name"
+#~ msgid "ShareProvider"
+#~ msgstr "সেৱা"
+
+#, fuzzy
+#~| msgctxt "Name"
+#~| msgid "Services"
+#~ msgctxt "Name"
+#~ msgid "Share Services"
+#~ msgstr "সেৱা"
+
+#, fuzzy
+#~| msgctxt "GenericName"
+#~| msgid "System Process Information"
+#~ msgctxt "Name"
+#~ msgid "Status Notifier Information"
+#~ msgstr "ব্যৱস্থাপ্ৰণালীৰ প্ৰক্ৰীয়াৰ তথ্য"
+
+#, fuzzy
+#~| msgctxt "GenericName"
+#~| msgid "System Process Information"
+#~ msgctxt "Comment"
+#~ msgid "System status information"
+#~ msgstr "ব্যৱস্থাপ্ৰণালীৰ প্ৰক্ৰীয়াৰ তথ্য"
+
+#~ msgctxt "Name"
+#~ msgid "Date and Time"
+#~ msgstr "তাৰিখ আৰু সময়"
+
+#, fuzzy
+#~| msgctxt "Name"
+#~| msgid "Date and Time"
+#~ msgctxt "Comment"
+#~ msgid "Date and time by timezone"
+#~ msgstr "তাৰিখ আৰু সময়"
+
+#, fuzzy
+#~| msgctxt "Name"
+#~| msgid "Debian Package Search"
+#~ msgctxt "Name"
+#~ msgid "Debian Weather Service"
+#~ msgstr "Debian Package Search"
+
+#~ msgctxt "Name"
+#~ msgid "Warning"
+#~ msgstr "সতৰ্কবাণী"
+
+#, fuzzy
+#~| msgctxt "Name"
+#~| msgid "Desktop"
+#~ msgctxt "Comment"
+#~ msgid "Plasma Workspace"
+#~ msgstr "ডেস্কট'প"
+
+#, fuzzy
+#~| msgctxt "Name"
+#~| msgid "Devices"
+#~ msgctxt "Name"
+#~ msgid "Notification"
+#~ msgstr "যন্ত্ৰ"
+
+#, fuzzy
+#~| msgctxt "Name"
+#~| msgid "Warning"
+#~ msgctxt "Name"
+#~ msgid "Warning Message"
+#~ msgstr "সতৰ্কবাণী"
+
+#, fuzzy
+#~| msgctxt "Name"
+#~| msgid "Science"
+#~ msgctxt "Name"
+#~ msgid "Screen Locking"
+#~ msgstr "বিজ্ঞান"
+
+#, fuzzy
+#~| msgctxt "Name"
+#~| msgid "Science"
+#~ msgctxt "Comment"
+#~ msgid "Screen Locking Themes"
+#~ msgstr "বিজ্ঞান"
+
+#, fuzzy
+#~| msgctxt "Name"
+#~| msgid "Science"
+#~ msgctxt "Comment"
+#~ msgid "Screen Locking Timeouts"
+#~ msgstr "বিজ্ঞান"
+
+#, fuzzy
+#~| msgctxt "Name"
+#~| msgid "Science"
+#~ msgctxt "Comment"
+#~ msgid "Screen Saver"
+#~ msgstr "বিজ্ঞান"
+
+#, fuzzy
+#~| msgctxt "Name"
+#~| msgid "Science"
+#~ msgctxt "Name"
+#~ msgid "Screen locked"
+#~ msgstr "বিজ্ঞান"
+
+#~ msgctxt "Name"
+#~ msgid "Default"
+#~ msgstr "অবিকল্পিত"
+
+#, fuzzy
+#~| msgctxt "Name"
+#~| msgid "Desktop"
+#~ msgctxt "Comment"
+#~ msgid "Default Plasma Desktop theme"
+#~ msgstr "ডেস্কট'প"
+
+#, fuzzy
+#~| msgctxt "Name"
+#~| msgid "Services"
+#~ msgctxt "Name"
+#~ msgid "Internal Services"
+#~ msgstr "সেৱা"
+
+#~ msgctxt "Name"
+#~ msgid "Development"
+#~ msgstr "বিকাশ"
+
+#~ msgctxt "Name"
+#~ msgid "Translation"
+#~ msgstr "অনুবাদ"
+
+#~ msgctxt "Name"
+#~ msgid "Web Development"
+#~ msgstr "ৱেব বিকাশ"
+
+#~ msgctxt "Name"
+#~ msgid "Editors"
+#~ msgstr "সম্পাদক"
+
+#, fuzzy
+#~| msgctxt "Name"
+#~| msgid "Application"
+#~ msgctxt "Name"
+#~ msgid "Education"
+#~ msgstr "অনুপ্ৰয়োগ"
+
+#~ msgctxt "Name"
+#~ msgid "Languages"
+#~ msgstr "ভাষা"
+
+#~ msgctxt "Name"
+#~ msgid "Mathematics"
+#~ msgstr "গণিত"
+
+#~ msgctxt "Name"
+#~ msgid "Miscellaneous"
+#~ msgstr "বিবিধ"
+
+#~ msgctxt "Name"
+#~ msgid "Science"
+#~ msgstr "বিজ্ঞান"
+
+#~ msgctxt "Name"
+#~ msgid "Teaching Tools"
+#~ msgstr "শৈক্ষিক সৰঞ্জাম"
+
+#~ msgctxt "Name"
+#~ msgid "Arcade"
+#~ msgstr "আৰ্কেড"
+
+#~ msgctxt "Name"
+#~ msgid "Board Games"
+#~ msgstr "বোৰ্ড খেলা"
+
+#~ msgctxt "Name"
+#~ msgid "Card Games"
+#~ msgstr "তাছ খেলা"
+
+#~ msgctxt "Name"
+#~ msgid "Games"
+#~ msgstr "খেলা"
+
+#~ msgctxt "Name"
+#~ msgid "Games for Kids"
+#~ msgstr "সৰু ল'ৰা ছোৱালিৰ খেলা"
+
+#~ msgctxt "Name"
+#~ msgid "Logic Games"
+#~ msgstr "লজিক খেলা"
+
+#~ msgctxt "Name"
+#~ msgid "Rogue-like Games"
+#~ msgstr "Rogue-like Games"
+
+#~ msgctxt "Name"
+#~ msgid "Tactics & Strategy"
+#~ msgstr "Tactics & Strategy"
+
+#~ msgctxt "Name"
+#~ msgid "Graphics"
+#~ msgstr "চিত্ৰাঙ্কন"
+
+#~ msgctxt "Name"
+#~ msgid "Internet"
+#~ msgstr "ইন্টাৰ্নে'ট"
+
+#, fuzzy
+#~| msgctxt "Name"
+#~| msgid "Terminal Applications"
+#~ msgctxt "Name"
+#~ msgid "Terminal Applications"
+#~ msgstr "টাৰ্মিনেল অনুপ্ৰয়োগ"
+
+#~ msgctxt "Name"
+#~ msgid "KDE Menu"
+#~ msgstr "KDE তালিকা"
+
+#, fuzzy
+#~| msgctxt "Name"
+#~| msgid "Applications"
+#~ msgctxt "Name"
+#~ msgid "More Applications"
+#~ msgstr "অনুপ্ৰয়োগ"
+
+#~ msgctxt "Name"
+#~ msgid "Multimedia"
+#~ msgstr "মাল্টিমিডিয়া"
+
+#~ msgctxt "Name"
+#~ msgid "Office"
+#~ msgstr "কাৰ্যালয়"
+
+#~ msgctxt "Name"
+#~ msgid "Science & Math"
+#~ msgstr "বিজ্ঞান & গণিত"
+
+#~ msgctxt "Name"
+#~ msgid "Settings"
+#~ msgstr "বৈশিষ্ট্য"
+
+#~ msgctxt "Name"
+#~ msgid "System"
+#~ msgstr "ব্যৱস্থাপ্ৰণালী"
+
+#~ msgctxt "Name"
+#~ msgid "Toys"
+#~ msgstr "খেলনা"
+
+#~ msgctxt "Name"
+#~ msgid "Lost & Found"
+#~ msgstr "হেৰুৱা & পোৱা"
+
+#~ msgctxt "Name"
+#~ msgid "Accessibility"
+#~ msgstr "অভিগম্যতা"
+
+#~ msgctxt "Comment"
+#~ msgid "Accessibility"
+#~ msgstr "অভিগম্যতা"
+
+#, fuzzy
+#~| msgctxt "Name"
+#~| msgid "Desktop"
+#~ msgctxt "Name"
+#~ msgid "Desktop"
+#~ msgstr "ডেস্কট'প"
+
+#, fuzzy
+#~| msgctxt "Name"
+#~| msgid "Desktop"
+#~ msgctxt "Comment"
+#~ msgid "Desktop"
+#~ msgstr "ডেস্কট'প"
+
+#, fuzzy
+#~| msgctxt "GenericName"
+#~| msgid "Contact Manager"
+#~ msgctxt "Name"
+#~ msgid "Utilities"
+#~ msgstr "পৰিচয়ৰ পৰিচালক"
+
+#, fuzzy
+#~| msgctxt "GenericName"
+#~| msgid "Contact Manager"
+#~ msgctxt "Comment"
+#~ msgid "Utilities"
+#~ msgstr "পৰিচয়ৰ পৰিচালক"
+
+#~ msgctxt "Name"
+#~ msgid "File"
+#~ msgstr "নথিপত্ৰ"
+
+#~ msgctxt "Comment"
+#~ msgid "File"
+#~ msgstr "নথিপত্ৰ"
+
+#~ msgctxt "Name"
+#~ msgid "Peripherals"
+#~ msgstr "যন্ত্ৰ"
+
+#~ msgctxt "Comment"
+#~ msgid "Peripherals"
+#~ msgstr "যন্ত্ৰ"
+
+#~ msgctxt "Name"
+#~ msgid "PIM"
+#~ msgstr "PIM"
+
+#~ msgctxt "Comment"
+#~ msgid "PIM"
+#~ msgstr "PIM"
+
+#, fuzzy
+#~| msgctxt "GenericName"
+#~| msgid "Contact Manager"
+#~ msgctxt "Name"
+#~ msgid "X-Utilities"
+#~ msgstr "পৰিচয়ৰ পৰিচালক"
+
+#~ msgctxt "Comment"
+#~ msgid "X Window Utilities"
+#~ msgstr "X Window Utilities"
+
+#, fuzzy
+#~| msgctxt "GenericName"
+#~| msgid "Multimedia Player"
+#~ msgctxt "Comment"
+#~ msgid "Multimedia System"
+#~ msgstr "Multimedia Player"
+
+#, fuzzy
+#~| msgctxt "Name"
+#~| msgid "Applications"
+#~ msgctxt "Name"
+#~ msgid "Application"
+#~ msgstr "অনুপ্ৰয়োগ"
+
+#, fuzzy
+#~| msgctxt "Name"
+#~| msgid "Desktop"
+#~ msgctxt "Name"
+#~ msgid "Plasma Windowed"
+#~ msgstr "ডেস্কট'প"
+
+#, fuzzy
+#~| msgctxt "GenericName"
+#~| msgid "Contact Manager"
+#~ msgctxt "Name"
+#~ msgid "Activities"
+#~ msgstr "পৰিচয়ৰ পৰিচালক"
+
+#, fuzzy
+#~| msgctxt "Name"
+#~| msgid "Desktop"
+#~ msgctxt "Name"
+#~ msgid "Desktop Search"
+#~ msgstr "ডেস্কট'প"
+
+#, fuzzy
+#~| msgctxt "Name"
+#~| msgid "Bookmarks"
+#~ msgctxt "Name|plasma runner"
+#~ msgid "Bookmarks"
+#~ msgstr "পত্ৰচিহ্ন"
+
+#, fuzzy
+#~| msgctxt "Name"
+#~| msgid "KDE Applications"
+#~ msgctxt "Name"
+#~ msgid "Kill Applications"
+#~ msgstr "KDE Applications"
+
+#, fuzzy
+#~| msgctxt "Name"
+#~| msgid "Terminal Applications"
+#~ msgctxt "Name"
+#~ msgid "Terminate Applications"
+#~ msgstr "টাৰ্মিনেল অনুপ্ৰয়োগ"
+
+#~ msgctxt "Name"
+#~ msgid "Applications"
+#~ msgstr "অনুপ্ৰয়োগ"
+
+#, fuzzy
+#~| msgctxt "Name"
+#~| msgid "Devices"
+#~ msgctxt "Name|plasma runner"
+#~ msgid "Devices"
+#~ msgstr "যন্ত্ৰ"
+
+#, fuzzy
+#~| msgctxt "Name"
+#~| msgid "Web Shortcuts"
+#~ msgctxt "Name|plasma runner"
+#~ msgid "Web Shortcuts"
+#~ msgstr "ৱেবৰ চমু পথ"
+
+#, fuzzy
+#~| msgctxt "Name"
+#~| msgid "MS Windows 9x"
+#~ msgctxt "Name"
+#~ msgid "Windowed widgets"
+#~ msgstr "MS Windows 9x"
+
+#, fuzzy
+#~| msgctxt "Name"
+#~| msgid "MS Windows 9x"
+#~ msgctxt "Name|plasma runner"
+#~ msgid "Windows"
+#~ msgstr "MS Windows 9x"
+
+#, fuzzy
+#~| msgctxt "Name"
+#~| msgid "Desktop"
+#~ msgctxt "Name"
+#~ msgid "Plasma Desktop Workspace"
+#~ msgstr "ডেস্কট'প"
+
+#~ msgctxt "Name"
+#~ msgid "B3/KDE"
+#~ msgstr "B3/KDE"
+
+#~ msgctxt "Name"
+#~ msgid "BeOS"
+#~ msgstr "BeOS"
+
+#~ msgctxt "Name"
+#~ msgid "CDE"
+#~ msgstr "CDE"
+
+#, fuzzy
+#~| msgctxt "Name"
+#~| msgid "Pose"
+#~ msgctxt "Name"
+#~ msgid "Plastique"
+#~ msgstr "Pose"
+
+#~ msgctxt "Name"
+#~ msgid "SGI"
+#~ msgstr "SGI"
+
+#~ msgctxt "Name"
+#~ msgid "MS Windows 9x"
+#~ msgstr "MS Windows 9x"
+
+#, fuzzy
+#~| msgctxt "Name"
+#~| msgid "MS Windows 9x"
+#~ msgctxt "Name"
+#~ msgid "MS Windows Vista"
+#~ msgstr "MS Windows 9x"
+
+#, fuzzy
+#~| msgctxt "Name"
+#~| msgid "MS Windows 9x"
+#~ msgctxt "Name"
+#~ msgid "MS Windows XP"
+#~ msgstr "MS Windows 9x"
+
+#, fuzzy
+#~| msgctxt "Name"
+#~| msgid "Color"
+#~ msgctxt "Name"
+#~ msgid "Plain Color"
+#~ msgstr "ৰং"
+
+#, fuzzy
+#~| msgctxt "Name"
+#~| msgid "Color"
+#~ msgctxt "Name"
+#~ msgid "Color"
+#~ msgstr "ৰং"
+
+#, fuzzy
+#~| msgctxt "Name"
+#~| msgid "File Management"
+#~ msgctxt "Name"
+#~ msgid "Session Management"
+#~ msgstr "নথিপত্ৰৰ পৰিচালনা"
+
+#, fuzzy
+#~| msgctxt "Name"
+#~| msgid "Web Shortcuts"
+#~ msgctxt "Comment"
+#~ msgid "Global Keyboard Shortcuts"
+#~ msgstr "ৱেবৰ চমু পথ"
+
+#, fuzzy
+#~| msgctxt "Name"
+#~| msgid "Applications"
+#~ msgctxt "Comment"
+#~ msgid "The application name"
+#~ msgstr "অনুপ্ৰয়োগ"
